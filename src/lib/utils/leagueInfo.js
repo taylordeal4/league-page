@@ -133,7 +133,7 @@ export const managers = [
             {
       "roster": 4,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Denisa",
-      "tookOver": Null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
+      "tookOver": 2024, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Des Moines, Iowa", // (optional)
       "bio": "Lorem ipsum...",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
@@ -155,7 +155,7 @@ export const managers = [
             {
       "roster": 5,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Mustafah",
-      "tookOver": Null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
+      "tookOver": 2024, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Ankeny, Iowa", // (optional)
       "bio": "Lorem ipsum...",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
