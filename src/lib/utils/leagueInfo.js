@@ -21,7 +21,7 @@ https://github.com/nmelhado/league-page/blob/master/TRAINING_WHEELS.md#ii-adding
 
 export const managers = [
     {
-      "roster": 1,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+      "roster": 8,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Taylor",
       "tookOver": Null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Ankeny, Iowa", // (optional)
@@ -43,7 +43,7 @@ export const managers = [
       "preferredContact": "Sleeper", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
     {
-      "roster": 3,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+      "roster": 2,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Emily",
       "tookOver": Null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Ankeny, Iowa", // (optional)
@@ -65,7 +65,7 @@ export const managers = [
       "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
     {
-      "roster": 2,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+      "roster": 4,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Robby",
       "tookOver": Null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Urbandale, Iowa", // (optional)
@@ -87,7 +87,7 @@ export const managers = [
       "preferredContact": "Sleeper", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
       {
-      "roster": 7,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+      "roster": 5,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Nick",
       "tookOver": Null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Huxley, Iowa", // (optional)
@@ -109,7 +109,7 @@ export const managers = [
       "preferredContact": "Sleeper", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
             {
-      "roster": 8,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+      "roster": 7,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Jerry",
       "tookOver": Null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Waukee, Iowa", // (optional)
@@ -131,7 +131,7 @@ export const managers = [
       "preferredContact": "Sleeper", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
             {
-      "roster": 4,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+      "roster": 1,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Denisa",
       "tookOver": 2024, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Des Moines, Iowa", // (optional)
@@ -153,7 +153,7 @@ export const managers = [
       "preferredContact": "Sleeper", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
             {
-      "roster": 5,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+      "roster": 3,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Mustafah",
       "tookOver": 2024, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Ankeny, Iowa", // (optional)
