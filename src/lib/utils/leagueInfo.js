@@ -222,7 +222,7 @@ export const managers = [
       "roster": 10,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Randy",
       "tookOver": Null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
-      "location": "Newton, Iowa", // (optional)
+      "location": "Norwalk, Iowa", // (optional)
       "bio": "Lorem ipsum...",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2024, // (optional) when did the manager start playing fantasy football
