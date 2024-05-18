@@ -5,13 +5,6 @@ import { dynasty } from './utils/helper';
     const today = new Date();
     const resources = [
         {
-            name: "FTN Fantasy",
-            url: "https://www.ftnfantasy.com/nfl",
-            icon: "insights",
-            premium: true,
-            separator: true,
-        },
-        {
             name: "Inside the League Podcast",
             url: "https://open.spotify.com/show/33Fa3IKcZrsRp3Jjbu0jIW?si=0b21cafea76f4e25",
             icon: "insights",
@@ -127,5 +120,5 @@ import { dynasty } from './utils/helper';
             {/if}
         {/each}
     </List>
-    <p class="disclaimer">*Some or all content is behind a paywall</p>
+    <p class="disclaimer">Let The Commish know of any other needed resources.</p>
 </div>
