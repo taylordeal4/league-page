@@ -12,6 +12,13 @@ import { dynasty } from './utils/helper';
             separator: true,
         },
         {
+            name: "Inside the League Podcast",
+            url: "https://open.spotify.com/show/33Fa3IKcZrsRp3Jjbu0jIW?si=0b21cafea76f4e25",
+            icon: "insights",
+            premium: false,
+            separator: true,
+        },
+        {
             name: "Fantasy Football Trade Analyzer",
             url: `https://fantasyfootballcalculator.com/trade-analyzer`,
             icon: "calculate",
