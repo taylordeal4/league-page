@@ -12,10 +12,10 @@ import { dynasty } from './utils/helper';
             separator: true,
         },
         {
-            name: "The Fantasy Footballers",
-            url: "https://www.thefantasyfootballers.com/",
+            name: "Inside the League (with Nick & Taylor)",
+            url: "https://open.spotify.com/show/33Fa3IKcZrsRp3Jjbu0jIW?si=3277960545674d4f",
             icon: "podcasts",
-            premium: true,
+            premium: false,
             separator: true,
         },
         {
