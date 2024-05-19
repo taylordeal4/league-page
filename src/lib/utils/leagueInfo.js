@@ -7,7 +7,15 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Welcome to A League of Our Own Fantasy Football League!</p>
+  <p>Welcome to "A League of Our Own" Fantasy Football League!</p>
+  <p>Where Fantasy Gets a Modern Makeover</p>
+  <p>Hey gridirion gurus, welcome to the coolest fantasy football league in cyberspace - "A League of Our Own"! Get ready to kick off a season of digital domincation with  modern twist. </p>
+  <p>Why Choose "A League of Our Own"?</p>
+  <p>-Tech Savvy Gameplay: Say goodbye to outdated draft boards and hello to cutting-edge draft apps. Our league leverages the latest technology to bring you a seamless, interactive drafting experience like no other.</p>
+  <p>-Social Media Showdowns: Trash talk isn't just reserved for the water cooler anymore. In this league, we take our smack talk to the digital realm, where GIFs,memes, and emojis reign supreme. #TrashTalkTuesday, anyone?</p>
+  <p>-Data-Driven Decisions: Who needs a crystal ball when you have advanced analytics at your fingertips? Our league embraces the power of data to help you make smarter, more strategic lineup decisions. After all, knowledge is power - and championships.</p>
+  <p>-Victory Lap: The champion of this league wins some badass bling! Every league champion receives a championship ring each year at our annual Superbowl party, where they can take a victory lap. Unless you are Jerry - who opted for virtual high fives, digital confetti showers, and a victory dance that would make even Fortnite dancers jealous.</p>
+  <p>Ready to revolutionize your fantasy football experience? Then grab your smartphone, fire up your laptop, and get ready to conquer the virtual gridiron in "A League of Our Own"! It's time to rewrite teh playbook for modern fantasy football gretness. Let's do this!</p>
 `;
 
 /*   STEP 3   */
