@@ -183,5 +183,5 @@ import { dynasty } from './utils/helper';
             {/if}
         {/each}
     </List>
-    <p class="disclaimer">Let The Commish know of any other needed resources.</p>
+    <p class="disclaimer">*Some or all content is behind a paywall</p>
 </div>
