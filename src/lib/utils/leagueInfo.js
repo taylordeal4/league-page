@@ -44,7 +44,6 @@ export const managers = [
       {
       "managerID": "718340343912808448",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
       "name": "Robby",
-      "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": null, // (optional)
       "bio": "Co-Commissioner",
       "photo": "/managers/robby 2.jpg", // square ratio recommended (no larger than 500x500)
@@ -66,7 +65,6 @@ export const managers = [
     {
       "managerID": "995915607222693888",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
       "name": "Emily",
-      "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": null, // (optional)
       "bio": "Engaged to The Commissioner",
       "photo": "/managers/emily2.jpeg", // square ratio recommended (no larger than 500x500)
@@ -88,7 +86,6 @@ export const managers = [
     {
       "managerID": "862514902890287104",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
       "name": "Jeremiah",
-      "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": null, // (optional)
       "bio": "Lorem ipsum...",
       "photo": "/managers/jeremiah.jpg", // square ratio recommended (no larger than 500x500)
@@ -110,7 +107,6 @@ export const managers = [
     {
       "managerID": "996591058593157120",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
       "name": "Abby",
-      "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": null, // (optional)
       "bio": "Lorem ipsum...",
       "photo": "/managers/Abby.JPG", // square ratio recommended (no larger than 500x500)
@@ -132,7 +128,6 @@ export const managers = [
       {
       "managerID": "996565664083103744",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
       "name": "Jake",
-      "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": null, // (optional)
       "bio": "Lorem ipsum...",
       "photo": "/managers/Jake.JPG", // square ratio recommended (no larger than 500x500)
@@ -154,7 +149,6 @@ export const managers = [
     {
       "managerID": "997245159181975552",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
       "name": "Nick",
-      "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": null, // (optional)
       "bio": "blank",
       "photo": "/managers/nick2.jpg", // square ratio recommended (no larger than 500x500)
@@ -176,7 +170,6 @@ export const managers = [
     {
       "managerID": "790455832067293184",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
       "name": "Jerry",
-      "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": null, // (optional)
       "bio": "2023 League Champion.",
       "photo": "/managers/jerry2.jpeg", // square ratio recommended (no larger than 500x500)
@@ -198,7 +191,6 @@ export const managers = [
       {
       "managerID": "736273688806195200",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
       "name": "Matt",
-      "tookOver": 2024, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": null, // (optional)
       "bio": "Lorem ipsum...",
       "photo": "/managers/matt.jpeg", // square ratio recommended (no larger than 500x500)
@@ -220,7 +212,6 @@ export const managers = [
     {
       "managerID": "1096304827035918336",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
       "name": "Randy",
-      "tookOver": 2024, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": null, // (optional)
       "bio": "Lorem ipsum...",
       "photo": "/managers/randy.jpeg", // square ratio recommended (no larger than 500x500)
