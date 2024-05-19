@@ -11,6 +11,13 @@ import { dynasty } from './utils/helper';
             premium: false,
             separator: true,
         },
+{
+            name: "FTN Fantasy",
+            url: "https://www.ftnfantasy.com/nfl",
+            icon: "insights",
+            premium: true,
+            separator: true,
+        },
         {
             name: "Fantasy Football Trade Analyzer",
             url: `https://fantasyfootballcalculator.com/trade-analyzer`,
