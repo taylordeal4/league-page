@@ -52,7 +52,7 @@ export const managers = [
       "managerID": "718340343912808448",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
       "name": "Robby",
       "location": null, // (optional)
-      "bio": "Co-Commissioner",
+      "bio": "Assistant to the Commissioner",
       "photo": "/managers/robby 2.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "pit", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -157,7 +157,7 @@ export const managers = [
       "managerID": "997245159181975552",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
       "name": "Nick",
       "location": null, // (optional)
-      "bio": "blank",
+      "bio": "Co-Host of Inside the League Podcast",
       "photo": "/managers/nick2.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "ne", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -178,7 +178,7 @@ export const managers = [
       "managerID": "790455832067293184",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
       "name": "Jerry",
       "location": null, // (optional)
-      "bio": "2023 League Champion.",
+      "bio": "2023 League Champion",
       "photo": "/managers/jerry2.jpeg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "hou", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -199,7 +199,7 @@ export const managers = [
       "managerID": "736273688806195200",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
       "name": "Matt",
       "location": null, // (optional)
-      "bio": "Lorem ipsum...",
+      "bio": "#1 Buffalo Bills Fan",
       "photo": "/managers/matt.jpeg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "buf", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
