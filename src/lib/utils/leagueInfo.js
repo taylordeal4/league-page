@@ -8,7 +8,7 @@ export const enableBlog = true; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VIT
 /*   STEP 2   */
 export const homepageText = `
   <p>Welcome to "A League of Our Own" Fantasy Football League! Where Fantasy Football Meets Modern Marvels.</p>
-  <p>Greetings gridirion gurus, welcome to the coolest fantasy football league in cyberspace - "A League of Our Own"! Get ready to kick off a season of digital dominnation with a modern twist. </p>
+  <p>Greetings gridirion gurus, welcome to the coolest fantasy football league in cyberspace - "A League of Our Own"! Get ready to kick off a season of digital domination with a modern twist. </p>
   <p>Why Choose "A League of Our Own"?</p>
   <p>-Slick Interface, Smooth Sailing: Say goodbye to clunky interfaces and hello to sleek design. Our leagues' website, podcast, accompanied by the Sleeper app are as smooth as a perfect spiral, ensuring an effortless experience from draft day to championship glory.</p>
   <p>-Social Media Showdowns: Trash talk isn't just reserved for the water cooler anymore. In this league, we take our smack talk to the digital realm, where GIFs, memes, and emojis reign supreme. #TrashTalkTuesday, anyone?</p>
