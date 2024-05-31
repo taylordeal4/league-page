@@ -196,35 +196,6 @@
         <h4 class="noUnderscore clickable" on:click={() => goToSection(tenFour)}>10.4 Penalties</h4>
     
     <hr />
-    
-
-    <h2 class="sectionHeading" bind:this={one}>Article 1: The Commissioner</h2>
-    
-    <h3 bind:this={oneOne}>1.1 Agreement</h3>
-    <p>Taylor Deal, hereinafter referred to as “The Commissioner” has accepted the responsibility and privilege of serving the league members of A League of Our Own and to oversee and administer League activities. </p>
-    <p>Now, therefore, in consideration of the mutual covenants and promises contained herein, the Participants agree to abide by the rules and regulations established by the Commissioner for the orderly and fair conduct of the League. </p>
-    <p>This Agreement sets forth the terms and conditions governing the Participants’ involvement in the League under the leadership of the Commissioner. </p>
-
-    <h3 bind:this={oneTwo}>1.2 Responsibilities</h3>
-    <p>The functions of the Commissioner shall include:</p>
-        <p>To serve as the Chief Administrative, Dispute Resolution and Financial Officer of A League of Our Own. </p>
-        <p>To appoint such persons to assist in the execution of the duties of the Commissioner as may be necessary in the Commissioner’s exclusive direction.  </p>
-        <p>To make decisions, or to appoint persons to make decisions, in respect of rule interpretations, administrative functions, financial transactions or disciplinary action, as may be necessary. </p>
-
-    <h3 bind:this={oneThree}>1.3 Assistant to the Commissioner</h3>
-    <p>The Assistant to the Commissioner is a league member who serves at the pleasure of the Commissioner to provide counsel and assist with league administration. The Assistant to the Commissioner may act in place of the Commissioner, especially in cases of the Commissioner’s absence or conflict of interest.</p>
-            <p>Assistant Selection: Members in the league may volunteer to fill the role of the Assistant to the Commissioner. On Draft Day, if more than one person volunteers – the remaining members will vote to determine who will fill the role for the season. </p>
-
-    <h3 bind:this={oneFour}>1.4 Disciplicary Actions</h3>
-    <p>In the case of conduct deemed by the Commissioner not to be in the best interests of A League of Our Own disciplinary actions against team managers may include any one or more of the following:</p>
-        <p>A reprimand.</p>
-        <p>A formal warning.</p>
-        <p>A forfeit of a specific draft pick.</p>
-        <p>Suspension or removal of a Manager from A League of Our Own.</p>
-        <p>Cash Penalty determined by the Commissioner and approved by a majority league vote; or such other actions as the Commissioner may deem appropriate.</p>
-
-    <h3 bind:this={oneFive}>1.5 Removal</h3>
-    <p>The Commissioner does not have autonomous rule over the league and may be removed from office through a unanimous vote by league members. </p>
 
     <h3 bind:this={oneSix}>1.6 Review of Commissioner Decisions</h3>
     <p>Any action of the Commissioner taken pursuant to this Article, regardless of whether or not it is specifically designated as “reviewable”, may be overturned under the following process: </p>
