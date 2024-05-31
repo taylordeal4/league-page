@@ -197,94 +197,55 @@
     
     <hr />
     
-    <h2 class="sectionHeading" bind:this={one}>Section 1 Roster Breakdown</h2>
+    <h2 class="sectionHeading" bind:this={one}>Article 1: The Commissioner</h2>
     
-    <h3 class="subSectionHeading" bind:this={oneOne}>1.1 Positional Breakdown</h3>
+    <h3 class="subSectionHeading" bind:this={oneOne}>1.1 Agreement</h3>
     
-    <p>28 Total Players</p>
+    <p>Taylor Deal, hereinafter referred to as “The Commissioner” has accepted the responsibility and privilege of serving the league members of A League of Our Own and to oversee and administer League activities. </p>
     
-    <p class="underscore">Starters</p>
-    <ul>
-        <li>QB</li>
-        <li>RB</li>
-        <li>RB</li>
-        <li>WR</li>
-        <li>WR</li>
-        <li>TE</li>
-        <li>FLEX (RB/WR/TE)</li>
-        <li>FLEX (RB/WR)</li>
-        <li>D/ST</li>
-        <li>K</li>
-    </ul>
+    <p Now, therefore, in consideration of the mutual covenants and promises contained herein, the Participants agree to abide by the rules and regulations established by the Commissioner for the orderly and fair conduct of the League. </p>
     
-    <p>18 Bench (Expanded by 5 between the keague draft and start of regular season)</p>
+    <p>This Agreement sets forth the terms and conditions governing the Participants’ involvement in the League under the leadership of the Commissioner. </p>
 
-    <p>1 IR Spots (Player must be labeled as IR, Out, or Covid in the Sleeper App)</p>
+    <h3 class="subSectionHeading" bind:this={oneTwo}>1.2 Responsibilities</h3>
     
-        <h4 bind:this={oneOneOne}>1.1.1 Position Maximums</h4>
-        
-        <div class="subBlock">
-            <table class="positionMaximums">
-                <tr><td>QB</td><td class="right">3 active, 5 total</td></tr>
-                <tr><td>RB</td><td class="right">20</td></tr>
-                <tr><td>WR</td><td class="right">20</td></tr>
-                <tr><td>TE</td><td class="right">10</td></tr>
-                <tr><td>D/ST</td><td class="right">3</td></tr>
-                <tr><td>K</td><td class="right">3</td></tr>
-            </table>
-        </div>
+    <p>The functions of the Commissioner shall include:</p>
+      <p>a.	To serve as the Chief Administrative, Dispute Resolution and Financial Officer of A League of Our Own. </p>
+      <p>b.	To appoint such persons to assist in the execution of the duties of the Commissioner as may be necessary in the Commissioner’s exclusive direction. </p>
+      <p>c.	To make decisions, or to appoint persons to make decisions, in respect of rule interpretations, administrative functions, financial transactions or disciplinary action, as may be necessary.  </p>
+    
+    <h3 bind:this={oneThree}>1.3 Assitant to the Commissioner</h3>
+    
+    <p>The Assistant to the Commissioner is a league member who serves at the pleasure of the Commissioner to provide counsel and assist with league administration. The Assistant to the Commissioner may act in place of the Commissioner, especially in cases of the Commissioner’s absence or conflict of interest.</p>
+      <p>a.	Assistant Selection: Members in the league may volunteer to fill the role of the Assistant to the Commissioner. On Draft Day, if more than one person volunteers – the remaining members will vote to determine who will fill the role for the season.</p>
+
+    <h3 class="subSectionHeading" bind:this={oneThree}>1.3 Disciplinary Actions</h3>
+
+    <p>In the case of conduct deemed by the Commissioner not to be in the best interests of A League of Our Own disciplinary actions against team managers may include any one or more of the following:</p>
+      <p>a.	A reprimand.</p>
+      <p>b.	A formal warning.</p>
+      <p>c.	A forfeit of a specific draft pick.</p>
+      <p>d.	Suspension or removal of a Manager from A League of Our Own.</p>
+      <p>e.	Cash Penalty determined by the Commissioner and approved by a majority league vote; or such other actions as the Commissioner may deem appropriate.</p>
+
+    <h3 class="subSectionHeading" bind:this={oneFour}>1.4 Removal</h3>
+
+    <p>The Commissioner does not have autonomous rule over the league and may be removed from office through a unanimous vote by league members. </p>
+
+    <h3 class="subSectionHeading" bind:this={oneFive}>1.5 Review of Commissioner Decisions</h3>
+    <p>Any action of the Commissioner taken pursuant to this Article, regardless of whether or not it is specifically designated as “reviewable”, may be overturned under the following process:</p>
+      <p>a.	Team managers interested in the outcome of the Commissioner’s decision (i.e., the team that would receive the direct benefit of an overturned vote and any other team(s) directly involved in the challenged transaction and/or act) are deemed interested parties and are not eligible to participate in a vote to overturn that decision. </p>
+          <p>i.	For further clarity, each team’s interest in the general competitiveness of each other team shall not constitute an “interest” in the outcome of a decision for the purposes of subsection (a).</p>
+      <p>b.	One-third of team managers eligible to cast a vote to overturn must agree to a petition for reconsideration or a vote upon the challenged decision. That petition must be made within one week of the formal posting of the challenged decision on the league chat of the Sleeper app, by tagging the Commissioner. </p>
+          <p>i.	For further clarity, without such a petition being made, there shall be no review of a Commissioner’s decision.</p>
+      <p>c.	If the Commissioner does not reconsider the decision, a vote shall be held.</p>
+      <p>d.	The Commissioner and all interested parties may make such representations to the team managers as they may wish in support of their preferred outcome. </p>
+      <p>e.	The decision of the Commissioner may be overturned only upon a two-thirds majority vote of eligible team managers.</p>
+      <p>f.	If such a majority is not achieved, the decision of the Commissioner stands. </p>
+      <p>g.	If such a majority is achieved, the decision of the Commissioner is vacated. </p>
+          <p>i.	For further clarity, this shall not preclude further action by the Commissioner upon the same challenged act. </p>
 
 
-    <h3 class="subSectionHeading" bind:this={oneTwo}>1.2 Trading</h3>
-    
-    <p>Trading of players and draft picks (up to 3 drafts away) are allowed. Trades will process immediately and will be reversed if vetoed or under investigation for collusion. Tradable assets include players, draft picks, and FAAB $.</p>
-    
-    <h4 bind:this={oneTwoOne}>1.2.1 Trade Collusion</h4>
-    <div class="subBlock">
-        <p>If any owners are suspected of accepting bribes/offering bribes to enhance their/another owners team via trade, trading any assets other than fantasy players, draft picks, FAAB $, or otherwise found guilty of engaging in any form of collusion*, all parties involved in the trade will be susceptible to punishment. The punishments will go as followed:</p>
-        
-        <ul>
-            <li>First Offense – Immediate reduction of FAAB budget by 80%</li>
-            <li>Second Offense – Immediate freeze on all transaction types for the next 18 weeks of regular season and playoff fantasy football games, including trades and waiver wire bids</li>
-            <li>Third Offense – A league meeting of all members not involved in any of the improper trades/activity in question will take place to discuss next steps.</li>
-        </ul>
-
-        <p>All trades that are found guilty of collusion, will be reversed/denied. If the trade had affected the outcome of previous games, the results of those games will be revised.  </p>
-
-        <p>*Collusion includes the organizing of veto votes against an acceptable trade.</p>
-
-        <p>The commissioner will err on the side of letting owners manage their teams the way they see fit. Any collusion will need to be clear. The commissioner reserves the right to step in and at the very least assess the thinking of any team involved in a heavily lop-sided trade. </p>
-    </div>
-
-    <h4 bind:this={oneTwoTwo}>1.2.2 Lending Players Prohibition</h4>
-    <div class="subBlock">
-        <p>Any player traded from a team may not be re-acquired via trade within 6 weeks of the original trade. Any teams involved in this behavior will be subject to the aforementioned collusion punishments.</p>
-    </div>
-    
-    <h4 bind:this={oneTwoThree}>1.2.3 Trade Deadline</h4>
-    <div class="subBlock">
-        <p>The trade deadline will be set for the Saturday of the week 11 games of the NFL season.</p>
-    </div>
-    
-    <h4 bind:this={oneTwoFour}>1.2.4 Trade Restrictions</h4>
-    <div class="subBlock">
-        <p>You will not be able to trade draft picks that are more than 3 drafts away. For example, during the 2021 season you cannot trade any picks in or after the 2025 draft. You may only trade FAAB $ from the current season.</p>
-    </div>
-    
-    <h4 bind:this={oneTwoFive}>1.2.5 Veto/Trade Process</h4>
-    <div class="subBlock">
-        <p>A total of 7 veto votes are required to veto a trade. Vetoes are only appropriate in instances of collusion or an egregious mismatch of value (i.e. CMC for a backup kicker). Not liking a trade does not warrant a veto.</p>
-    </div>
-    
-    
-    
-    <h3 bind:this={oneThree}>1.3 Waiver Wire</h3>
-    
-    <p>FAAB Waiver wire system. Each team will begin the season with $100. $0 bids are allowed. Bids will process Thursdays and Sundays at 9AM EST.</p>
-
-    <p>FAAB budgets will reset each season in January.</p>
-    
-    
     <h2 class="sectionHeading" bind:this={two}>Section 2 Drafting</h2>
     
     <h3 bind:this={twoOne}>2.1 Draft Order</h3>
