@@ -205,13 +205,40 @@
     <p>Now, therefore, in consideration of the mutual covenants and promises contained herein, the Participants agree to abide by the rules and regulations established by the Commissioner for the orderly and fair conduct of the League. </p>
     <p>This Agreement sets forth the terms and conditions governing the Participants’ involvement in the League under the leadership of the Commissioner. </p>
 
-    <h3 bind:this={twoTwo}>2.2 Rookie Drafts</h3>
-    <p>Rokkie drafts will consist of 3 round of drafting, with 5 minutes alotted for each pick. To make room for the incoming players, benches will be expanded by (5) spots. These spots will be removed in mid-August, at which point you will need to have cut the necessary players.</p>
-    <p>Any spots not filled during the draft, can be filled immediately afterwards from the waiver wire.</p>
-    
-    <h3 bind:this={twoThree}>2.3 Draft Day Trades</h3>
-    <p>If a trade is being made during the draft, one or both parties can alert the commissioner to pause the draft to allow for extra time to negotiate the trade.</p>
-    
+    <h3 bind:this={oneTwo}>1.2 Responsibilities</h3>
+    <p>The functions of the Commissioner shall include:</p>
+        <p>a.	To serve as the Chief Administrative, Dispute Resolution and Financial Officer of A League of Our Own. </p>
+        <p>b.	To appoint such persons to assist in the execution of the duties of the Commissioner as may be necessary in the Commissioner’s exclusive direction.  </p>
+        <p>c.	To make decisions, or to appoint persons to make decisions, in respect of rule interpretations, administrative functions, financial transactions or disciplinary action, as may be necessary. </p>
+
+    <h3 bind:this={oneThree}>1.3 Assistant to the Commissioner</h3>
+    <p>The Assistant to the Commissioner is a league member who serves at the pleasure of the Commissioner to provide counsel and assist with league administration. The Assistant to the Commissioner may act in place of the Commissioner, especially in cases of the Commissioner’s absence or conflict of interest.</p>
+            <p>a.	Assistant Selection: Members in the league may volunteer to fill the role of the Assistant to the Commissioner. On Draft Day, if more than one person volunteers – the remaining members will vote to determine who will fill the role for the season. </p>
+
+    <h3 bind:this={oneFour}>1.4 Disciplicary Actions</h3>
+    <p>In the case of conduct deemed by the Commissioner not to be in the best interests of A League of Our Own disciplinary actions against team managers may include any one or more of the following:</p>
+        <p>a.	A reprimand.</p>
+        <p>b.	A formal warning.</p>
+        <p>c.	A forfeit of a specific draft pick.</p>
+        <p>d.	Suspension or removal of a Manager from A League of Our Own.</p>
+        <p>e.	Cash Penalty determined by the Commissioner and approved by a majority league vote; or such other actions as the Commissioner may deem appropriate.</p>
+
+    <h3 bind:this={oneFive}>1.5 Removal</h3>
+    <p>The Commissioner does not have autonomous rule over the league and may be removed from office through a unanimous vote by league members. </p>
+
+    <h3 bind:this={oneSix}>1.6 Review of Commissioner Decisions</h3>
+    <p>Any action of the Commissioner taken pursuant to this Article, regardless of whether or not it is specifically designated as “reviewable”, may be overturned under the following process: </p>
+        <p>a.	Team managers interested in the outcome of the Commissioner’s decision (i.e., the team that would receive the direct benefit of an overturned vote and any other team(s) directly involved in the challenged transaction and/or act) are deemed interested parties and are not eligible to participate in a vote to overturn that decision. </p>
+            <p>i.	For further clarity, each team’s interest in the general competitiveness of each other team shall not constitute an “interest” in the outcome of a decision for the purposes of subsection (a).</p>
+        <p>b.	One-third of team managers eligible to cast a vote to overturn must agree to a petition for reconsideration or a vote upon the challenged decision. That petition must be made within one week of the formal posting of the challenged decision on the league chat of the Sleeper app, by tagging the Commissioner. </p>
+            <p>i.	For further clarity, without such a petition being made, there shall be no review of a Commissioner’s decision.</p>
+        <p>c.	If the Commissioner does not reconsider the decision, a vote shall be held.</p>
+        <p>d.	The Commissioner and all interested parties may make such representations to the team managers as they may wish in support of their preferred outcome. </p>
+        <p>e.	The decision of the Commissioner may be overturned only upon a two-thirds majority vote of eligible team managers.</p>
+        <p>f.	If such a majority is not achieved, the decision of the Commissioner stands. </p>
+        <p>g.	If such a majority is achieved, the decision of the Commissioner is vacated.  </p>
+            <p>i.	For further clarity, this shall not preclude further action by the Commissioner upon the same challenged act. </p>
+
     <h2 class="sectionHeading" bind:this={three}>Section 3 Scoring System</h2>
 
     <h3 bind:this={threeOne}>3.1 Scoring System</h3>
