@@ -216,6 +216,13 @@
     <p>1)Assistant Selection: Members in the league may volunteer to fill the role of the Assistant to the Commissioner. On Draft Day, if more than one person volunteers – the remaining members will vote to determine who will fill the role for the season.</p>
     </div>
 
+    <h3 class="subSectionHeading" bind:this={oneFour}>1.4 Disciplinary Action</h3>
+
+    <h3 class="subSectionHeading" bind:this={oneFive}>1.5 Removal</h3>
+
+    <h3 class="subSectionHeading" bind:this={oneSix}>1.5 Review of Commissioner Decisions</h3>
+
+
 <h4 bind:this={oneTwoOne}>1.2.1 Trade Collusion</h4>
     <div class="subBlock">
         <p>If any owners are suspected of accepting bribes/offering bribes to enhance their/another owners team via trade, trading any assets other than fantasy players, draft picks, FAAB $, or otherwise found guilty of engaging in any form of collusion*, all parties involved in the trade will be susceptible to punishment. The punishments will go as followed:</p>
