@@ -204,19 +204,19 @@
     
     <p>The functions of the Commissioner shall include:</p>
     <div class="subBlock">
-    <p>1)To serve as the Chief Administrative, Dispute Resolution and Financial Officer of A League of Our Own.</p>
-    <p>2)To appoint such persons to assist in the execution of the duties of the Commissioner as may be necessary in the Commissioner’s exclusive direction.</p>
-    <p>3)To make decisions, or to appoint persons to make decisions, in respect of rule interpretations, administrative functions, financial transactions or disciplinary action, as may be necessary.</p>
+    <p>1) To serve as the Chief Administrative, Dispute Resolution and Financial Officer of A League of Our Own.</p>
+    <p>2) To appoint such persons to assist in the execution of the duties of the Commissioner as may be necessary in the Commissioner’s exclusive direction.</p>
+    <p>3) To make decisions, or to appoint persons to make decisions, in respect of rule interpretations, administrative functions, financial transactions or disciplinary action, as may be necessary.</p>
     </div>
 
     <h3 class="subSectionHeading" bind:this={oneThree}>1.3 Assistant to the Commissioner</h3>
 
     <p>The Assistant to the Commissioner is a league member who serves at the pleasure of the Commissioner to provide counsel and assist with league administration. The Assistant to the Commissioner may act in place of the Commissioner, especially in cases of the Commissioner’s absence or conflict of interest.</p>
     <div class="subBlock">
-    <p>1)Assistant Selection: Members in the league may volunteer to fill the role of the Assistant to the Commissioner. On Draft Day, if more than one person volunteers – the remaining members will vote to determine who will fill the role for the season.</p>
+    <p>1) Assistant Selection: Members in the league may volunteer to fill the role of the Assistant to the Commissioner. On Draft Day, if more than one person volunteers – the remaining members will vote to determine who will fill the role for the season.</p>
     </div>  
 
-    <h2 class="sectionHeading" bind:this={two}>Section 2: League Communications</h2>
+<h2 class="sectionHeading" bind:this={two}>Section 2: League Communications</h2>
     
     <h3 bind:this={twoOne}>2.1 Sleeper App</h3>
     <p>A League of Our Own is hosted on the Sleeper app. The league rules as listed below should align with the league settings on Sleeper. In any case where the league rules as listed here do not align with the rules as set up in Sleeper, the settings in Sleeper will take precedence if the league is mid-season. If the inconsistency is brought to the Commissioner’s attention in the offseason, these rules will be brought into alignment with the Sleeper settings.</p>
@@ -224,7 +224,7 @@
     <h3 bind:this={twoTwo}>2.2 League Chat</h3>
     <p>All league communications will be posted to the Sleeper app League Chat via the Commissioner. Members are to respond to league communications, when needed, at their earliest convenience to ensure the needs of the league are met – please confirm your notifications are set so you don’t miss any communication deadlines!</p>
     <div class="subBlock">
-    <p>1)Off-Season Chat: During the off-season, if members do not respond to league communications posted in the Sleeper app, the Commissioner will send a text to remind them about current polls, questions, or reminders to ensure all information is adequately recorded.</p>
+    <p>1) Off-Season Chat: During the off-season, if members do not respond to league communications posted in the Sleeper app, the Commissioner will send a text to remind them about current polls, questions, or reminders to ensure all information is adequately recorded.</p>
     </div>  
 
     <h3 bind:this={twoThree}>2.3 Private Channel</h3>
@@ -254,7 +254,7 @@
         <li>IR (2)</li>
     </ul>
 
-    <h2 class="sectionHeading" bind:this={five}>Section 5: League Finances</h2>
+ <h2 class="sectionHeading" bind:this={five}>Section 5: League Finances</h2>
     
     <h3 bind:this={fiveOne}>5.1 Entry Fee</h3>
     <p>Dues for participation in A League of Our Own are hereby established. The annual league entry fee is $75 US Dollars for the 2024-25 season. Increases to the league dues will be voted on at the beginning of each season. Any increases will be applied to the playoff pool and survivor/bonus pools. The allocation of collective dues for 2024 is as follows:</p>
@@ -305,14 +305,17 @@
     <h3 bind:this={sevenOne}>7.1 Scheduling</h3>
         <p>The draft is scheduled with input from league members, and the date and time are ultimately determined by the Commissioner. The draft is typically held during Labor Day weekend.</p>    
  
-<h3 bind:this={sevenTwo}>7.2 Format</h3>
+    <h3 bind:this={sevenTwo}>7.2 Format</h3>
         <p>The draft will be an offline, in-person snake format through seventeen rounds. Owner’s will have three (3) minutes to select their pick. When time expires, expect heckling from other league members. Only in extreme cases will we skip the owner who is not making their selection.</p> 
     
     <h3 bind:this={sevenThree}>7.3 Absenteeism</h3>
         <p>Draft attendance is strongly encouraged, yet optional. Participation, however, is mandatory. If a team manager cannot attend or participate, it is their responsibility to secure a proxy or draft their team remotely on draft day. A lack of participation for two or more consecutive seasons will result in disciplinary action. IF a manager is unable to attend, they may:</p>
      <div class="subBlock">
-        <p>1)Login remotely to the draft via FanDraft to select their picks in real time along with the in-person draft. Member can also request to be present on Facetime/Zoom/Skype for the duration of the in-person Draft Day. </p>
-        <p>2)Secure a proxy and send them to the draft. Proxys cannot draft remotely.</p>
+        <p>1) Login remotely to the draft via FanDraft to select their picks in real time along with the in-person draft. Member can also request to be present on Facetime/Zoom/Skype for the duration of the in-person Draft Day. </p>
+        <p>2) Secure a proxy and send them to the draft. Proxys cannot draft remotely.</p>
     </div>
         <p>If neither of these options can be met – their roster will be auto picked by a bot. </p>
+
+    <h3 bind:this={sevenThree}>7.3 Draft Order Selection</h3>
+
 </div>
