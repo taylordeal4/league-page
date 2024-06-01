@@ -332,7 +332,48 @@
         <li>IR (2)</li>
     </ul>
 
- <h2 class="sectionHeading" bind:this={five}>Section 5: League Finances</h2>
+    <h3 bind:this={fourThree}>4.3 Scoring</h3>
+    <p>Passing</p>
+    <p>Rushing</p>
+    <p>Receving</p>
+    <p>Kicking</p>
+    <p>Defense</p>
+    <p>Special Teams</p>
+    <p>Misc.</p>
+
+    <h3 bind:this={fourFour}>4.4 Divisions</h3>
+    <p>The league is organized into two divisions made up of five teams each.</p>
+    <div class="subBlock">
+    <p>1) The Divisions will be decided based on the results of the Draft Order. Teams will be seeded one through 10 based on results, all odd numbered teams will be placed in Division 1. All even numbered teams will be placed in Division 2.</p>
+    </div>  
+
+    <h3 bind:this={fourFive}>4.5 Regular Season Schedule</h3>
+    <p>The league's regular season begins Week 1 and ends Week 14 of the NFL season. The Commissioner allows Sleeper to set the schedule automatically, except for Week 1 – this will be Revenge Week. Sleeper sets the regular season schedule on the following principle: each team plays every divisional team twice, and each non-divisional team once. There is no tiebreaker for regular season matchups.</p>
+
+    <h3 bind:this={fourSix}>4.6 Wins & Tiebreakers</h3>
+    <p>Weekly head-to-head matchups are won by the team with the higher point total for that given week. Matchups that end in a tie are recorded as a tie except for playoff and Championship games as described in Article IX, Section 2, Subsection b.</p>
+
+    <h3 bind:this={fourSeven}>4.7 Free Agent Acquisition</h3>
+    <p>Free Agent players are acquired via weekly Free Agent Waiver Wire. Waiver wire order is determined by a continual rolling list. Waivers process and clear at 2 a.m. on Wednesdays.</p>
+    <div class="subBlock">
+    <p>1) When players are dropped after waivers, players are available to pick up immediately until the next week’s game beings.</p>
+    <p>2) Waiver claims are processed in waiver priority order and each successful claim moves a manager to the end of the waiver priority list.</p>
+    <p>3) There is no season acquisition limit. Each team manager is entitled to make an unlimited number of trades and/or add/drops each season.</p>
+    </div>  
+
+    <h3 bind:this={fourEight}>4.8 Trades</h3>
+    <p>Any team manager may engage in any number of transactions with any number of other team managers at any time, provided that the transactions would not be contrary to the best interests of fantasy football. Each trade, once submitted, shall be subject to a one-day review period which the Commissioner will review, before processing the trade. Only the Commissioner can veto a trade, but only in extremely rare cases where a trade cannot be reasonably defended as mutually beneficial from the perspective of both parties.</p>
+    <div class="subBlock">
+    <p>1) If the Commissioner is involved in the trade, the Assistant to the Commissioner will act in lieu of the Commissioner and review the trade. If the trade includes the Commissioner and Assistant to the Commissioner, the trade will be reviewed by a random league member.</p>
+    </div>  
+
+    <h3 bind:this={fourNine}>4.9 Forbidden Trades</h3>
+    <p>Draft picks and “players to be named later” are non-transferable and may not form any part of the value in a transaction.</p>
+
+    <h3 bind:this={fourTen}>4.10 Trade Deadline</h3>
+    <p>The deadline for making trades is set to Wednesday, at 11:59 p.m., during the 11th week of the season.</p>
+
+<h2 class="sectionHeading" bind:this={five}>Section 5: League Finances</h2>
     
     <h3 bind:this={fiveOne}>5.1 Entry Fee</h3>
     <p>Dues for participation in A League of Our Own are hereby established. The annual league entry fee is $75 US Dollars for the 2024-25 season. Increases to the league dues will be voted on at the beginning of each season. Any increases will be applied to the playoff pool and survivor/bonus pools. The allocation of collective dues for 2024 is as follows:</p>
