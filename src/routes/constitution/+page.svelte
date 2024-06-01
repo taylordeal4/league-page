@@ -235,13 +235,16 @@
     <h3 bind:this={threeOne}>3.1 League Spots</h3>
     <p>A League of Our Own has a total of 10 manager spots for each season.</p>
 
-    <h2 class="sectionHeading" bind:this={four}>Section 4 Postseason</h2>
+    <h2 class="sectionHeading" bind:this={four}>Section 4: League Settings</h2>
     
-    <h3 bind:this={fourOne}>4.1 Playoffs</h3>
-    <p>At the end of the season 6 teams will make the playoffs. The first round of playoffs will commence in week 15. Each team that wins their division and the 4 wild card teams that finish with the best records, will receive a playoff berth. The 2 teams that win their division will receive a bye week in the first round of the playoffs. Each playoff matchup will only last one week and the winner will advance. Week 18 will not be used.</p>
-    
-    <h3 bind:this={fourTwo}>4.2 Seeding Tiebreakers</h3>
-    <p>If two teams finish with the same record the tiebreakers will go as followed:</p>
+    <h3 bind:this={fourOne}>4.1 Format</h3>
+    <p>A League of Our Own shall be a 10-team head-to-head league with a Half Point Per Reception (PPR) format hosted by Sleeper.</p>    
+  
+    <h3 bind:this={fourTwo}>4.2 Rosters</h3>
+    <p>Each team will have 17 available positions on their active roster. Roster positions are defined as follows:</p>
+    <div class="subBlock">
+<p>1)QB (2)</p>
+    </div>
 
     <ol>
         <li>Points For</li>
