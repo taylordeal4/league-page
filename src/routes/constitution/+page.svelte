@@ -103,7 +103,7 @@
     <h3 class="noUnderscore clickable" on:click={() => goToSection(one)}>Section 1: The Commissioner</h3>
         <h4 class="noUnderscore clickable" on:click={() => goToSection(oneOne)}>1.1 Agreement</h4>
         <h4 class="noUnderscore clickable" on:click={() => goToSection(oneTwo)}>1.2 Responsibilities</h4>
-        <h4 class="noUnderscore clickable" on:click={() => goToSection(oneThree)}>1.3 Assitant to the Commissioner</h4>
+        <h4 class="noUnderscore clickable" on:click={() => goToSection(oneThree)}>1.3 Assistant to the Commissioner</h4>
         <h4 class="noUnderscore clickable" on:click={() => goToSection(oneFour)}>1.4 Disciplinary Actions</h4>
         <h4 class="noUnderscore clickable" on:click={() => goToSection(oneFive)}>1.5 Removal</h4>
         <h4 class="noUnderscore clickable" on:click={() => goToSection(oneSix)}>1.6 Review of Commissioner Decisions</h4>
@@ -209,10 +209,44 @@
     <p>3)To make decisions, or to appoint persons to make decisions, in respect of rule interpretations, administrative functions, financial transactions or disciplinary action, as may be necessary.</p>
     </div>
 
-    <h4 bind:this={oneTwoOne}>1.2.1 Trade Collusion</h4>
+    <h3 class="subSectionHeading" bind:this={oneThree}>1.3 Assistant to the Commissioner</h3>
+
+    <p>The Assistant to the Commissioner is a league member who serves at the pleasure of the Commissioner to provide counsel and assist with league administration. The Assistant to the Commissioner may act in place of the Commissioner, especially in cases of the Commissioner’s absence or conflict of interest.</p>
+    <div class="subBlock">
+    <p>1)Assistant Selection: Members in the league may volunteer to fill the role of the Assistant to the Commissioner. On Draft Day, if more than one person volunteers – the remaining members will vote to determine who will fill the role for the season.</p>
+    </div>
+
+    <h3 class="subSectionHeading" bind:this={oneFour}>1.4 Disciplinary Actions</h3>
+
+    <p>In the case of conduct deemed by the Commissioner not to be in the best interests of A League of Our Own disciplinary actions against team managers may include any one or more of the following:</p>
+    <div class="subBlock">
+    <p>1)A reprimand.</p>
+    <p>2)A formal warning.</p>
+    <p>3)A forfeit of a specific draft pick.</p>
+    <p>4)Suspension or removal of a Manager from A League of Our Own.</p>
+    <p>5)Cash Penalty determined by the Commissioner and approved by a majority league vote; or such other actions as the Commissioner may deem appropriate.</p>
+    </div>
+
+    <h3 class="subSectionHeading" bind:this={oneFive}>1.5 Removal</h3>
+
+    <p>The Commissioner does not have autonomous rule over the league and may be removed from office through a unanimous vote by league members.</p>
+
+    <h3 class="subSectionHeading" bind:this={oneSix}>1.6 Review of Commissioner Decisions</h3>
+
+    <p>Any action of the Commissioner taken pursuant to this Article, regardless of whether or not it is specifically designated as “reviewable”, may be overturned under the following process:</p>
+    <div class="subBlock">
+    <p>1)Team managers interested in the outcome of the Commissioner’s decision (i.e., the team that would receive the direct benefit of an overturned vote and any other team(s) directly involved in the challenged transaction and/or act) are deemed interested parties and are not eligible to participate in a vote to overturn that decision. i.	For further clarity, each team’s interest in the general competitiveness of each other team shall not constitute an “interest” in the outcome of a decision for the purposes of subsection (a).</p>
+    <p>2)One-third of team managers eligible to cast a vote to overturn must agree to a petition for reconsideration or a vote upon the challenged decision. That petition must be made within one week of the formal posting of the challenged decision on the league chat of the Sleeper app, by tagging the Commissioner. i.	For further clarity, without such a petition being made, there shall be no review of a Commissioner’s decision.</p>
+    <p>3)If the Commissioner does not reconsider the decision, a vote shall be held.</p>
+    <p>4)The Commissioner and all interested parties may make such representations to the team managers as they may wish in support of their preferred outcome.</p>
+    <p>5)The decision of the Commissioner may be overturned only upon a two-thirds majority vote of eligible team managers.</p>
+    <p>6)If such a majority is not achieved, the decision of the Commissioner stands.</p>
+    <p>7)If such a majority is achieved, the decision of the Commissioner is vacated. For further clarity, this shall not preclude further action by the Commissioner upon the same challenged act.</p>
+    </div>
+
+<h4 bind:this={oneTwoOne}>1.2.1 Trade Collusion</h4>
     <div class="subBlock">
         <p>If any owners are suspected of accepting bribes/offering bribes to enhance their/another owners team via trade, trading any assets other than fantasy players, draft picks, FAAB $, or otherwise found guilty of engaging in any form of collusion*, all parties involved in the trade will be susceptible to punishment. The punishments will go as followed:</p>
-        
         <ul>
             <li>First Offense – Immediate reduction of FAAB budget by 80%</li>
             <li>Second Offense – Immediate freeze on all transaction types for the next 18 weeks of regular season and playoff fantasy football games, including trades and waiver wire bids</li>
