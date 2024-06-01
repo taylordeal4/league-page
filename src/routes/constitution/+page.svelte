@@ -220,7 +220,29 @@
     </div>  
 
     <h3 class="subSectionHeading" bind:this={oneFour}>1.4 Disciplinary Actions</h3>
+    <p>In the case of conduct deemed by the Commissioner not to be in the best interests of A League of Our Own disciplinary actions against team managers may include any one or more of the following:</p>
+    <div class="subBlock">
+    <p>1) A reprimand.</p>
+    <p>2) A formal warning.</p>
+    <p>3) A forfeit of a specific draft pick.</p>
+    <p>4) Suspension or removal of a Manager from A League of Our Own.</p>
+    <p>5) Cash Penalty determined by the Commissioner and approved by a majority league vote; or such other actions as the Commissioner may deem appropriate.</p>
+    </div>  
 
+    <h3 class="subSectionHeading" bind:this={oneFive}>1.5 Removal</h3>
+    <p>The Commissioner does not have autonomous rule over the league and may be removed from office through a unanimous vote by league members.</p>
+
+    <h3 class="subSectionHeading" bind:this={oneSix}>1.6 Review of Commissioner Decisions</h3>
+    <p>Any action of the Commissioner taken pursuant to this Article, regardless of whether or not it is specifically designated as “reviewable”, may be overturned under the following process:</p>
+    <div class="subBlock">
+    <p>1) Team managers interested in the outcome of the Commissioner’s decision (i.e., the team that would receive the direct benefit of an overturned vote and any other team(s) directly involved in the challenged transaction and/or act) are deemed interested parties and are not eligible to participate in a vote to overturn that decision. For further clarity, each team’s interest in the general competitiveness of each other team shall not constitute an “interest” in the outcome of a decision for the purposes of subsection (a).</p>
+    <p>2) One-third of team managers eligible to cast a vote to overturn must agree to a petition for reconsideration or a vote upon the challenged decision. That petition must be made within one week of the formal posting of the challenged decision on the league chat of the Sleeper app, by tagging the Commissioner. For further clarity, without such a petition being made, there shall be no review of a Commissioner’s decision.</p>
+    <p>3) If the Commissioner does not reconsider the decision, a vote shall be held.</p>
+    <p>4) The Commissioner and all interested parties may make such representations to the team managers as they may wish in support of their preferred outcome.</p>
+    <p>5) The decision of the Commissioner may be overturned only upon a two-thirds majority vote of eligible team managers.</p>
+    <p>6) If such a majority is not achieved, the decision of the Commissioner stands.</p>
+    <p>7) If such a majority is achieved, the decision of the Commissioner is vacated. For further clarity, this shall not preclude further action by the Commissioner upon the same challenged act.</p>
+    </div>  
 
 <h2 class="sectionHeading" bind:this={two}>Section 2: League Communications</h2>
     
