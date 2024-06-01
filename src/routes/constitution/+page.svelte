@@ -438,7 +438,10 @@
 
     <h3 bind:this={sixThree}>6.3 Weekly High Score Bonus</h3>
         <p>A $5 bonus prize will be awarded each week to the team with the highest fantasy score during Weeks 1-14.</p>
-    
+
+    <h3 bind:this={sixFour}>6.4 Squid Game</h3>
+    <p>For each week (weeks 1-9), the team with the lowest weekly total score will be eliminated from the Squid Game competition. The last team manager standing at the end of Week 9 will receive a $50 bonus added to their bank.</p>
+
 <h2 class="sectionHeading" bind:this={seven}>Section 7: The Draft</h2>
     
     <h3 bind:this={sevenOne}>7.1 Scheduling</h3>
@@ -456,7 +459,48 @@
         <p>If neither of these options can be met – their roster will be auto picked by a bot. </p>
 
     <h3 bind:this={sevenThree}>7.3 Draft Order Selection</h3>
+    <p>The Draft Order will be determined 1-2 week(s) before the LIVE in-person Draft Party. Teams will be seeded one (1) through ten (10) at random to determine their order in the draft.</p>
 
-        <p>The Draft Order will be determined 1-2 week(s) before the LIVE in-person Draft Party. Teams will be seeded one (1) through ten (10) at random to determine their order in the draft.</p>
+<h2 class="sectionHeading" bind:this={eight}>Section 8: Roster Management</h2>
+
+    <h3 bind:this={eightOne}>8.1 Active Roster</h3>
+    <p>A team's active roster consists of fifteen (15) player slots. The starting roster consists of twelve (12) slots – ten (10) offensive players, one (1) kicker, and one (1) defensive team. Managers must always field a complete team.</p>
+    <div class="subBlock">
+    <p>1) Managers may not permit players on Injured Reserve to be in their active lineup for more than one (1) week from the time of his designation to the Injured Reserve.</p>
+    <p>2) Failure to abide by the responsibilities laid out in Section 8 will subject the team manger to disciplinary action at the Commissioner’s discretion pursuant to Article 1, Section 2 and will be reviewable pursuant to Article 1, Section 5.</p>
+    <p>3) If a team manager is inactive for a period of two weeks, consecutive or non-consecutive, that neglect will constitute an offense under Article 9, Section 4. After two occurrences, the Commissioner reserves the right to make changes to fill the roster and reassign ownership of the team for purposes of competitive balance.</p>
+    </div>
+
+    <h3 bind:this={eightTwo}>8.2 Roster Positions</h3>
+    <p>Each team will have the following roster slots:</p>
+  <ul>
+        <li>QB (2)</li>
+        <li>RB (2)</li>
+        <li>WR (3)</li>
+        <li>TE (1)</li>
+        <li>FLEX WR/RB/TE (2)</li>
+        <li>K (1)</li>
+        <li>DEF (1)</li>
+    </ul>
+
+    <h3 bind:this={eightThree}>8.3 Position Designation</h3>
+    <p>Occasionally, the NFL may change the designation of a particular player from one position to another or a player may line up in multiple positions throughout the game. For example, a TE may be switched to a QB and vice versa (*cough* Taysom Hill *cough*). For the purposes of A League of Our Own, we will follow what Sleeper designates.</p>
+
+    <h3 bind:this={eightFour}>8.4 Bench</h3>
+    <p>Each team has a bench of five (5) players.</p>
+
+    <h3 bind:this={eightFive}>8.5 Injured Reserve</h3>
+    <p>Each team has two (2) IR slots that are available throughout the season.</p>
+
+    <h3 bind:this={eightSix}>8.6 Roster Limits</h3>
+    <p>There is only one roster limitation for A League of Our Own – each team is only allowed three (3) Quarterbacks. All teams may freely add or drop players following the annual league draft until the season’s conclusion.</p>
+
+    <h3 bind:this={eightSeven}>8.7 Roster Lock</h3>
+    <p>Player lineup changes lock on a per-player basis, set for the start of each player’s individually scheduled game time. If an owner has technical or logistical problems setting their lineup, please contact the Commissioner for help.</p>
+
+
+
+
+
 
 </div>
