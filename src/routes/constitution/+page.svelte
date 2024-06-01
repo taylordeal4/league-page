@@ -320,6 +320,4 @@
 
         <p>The Draft Order will be determined 1-2 week(s) before the LIVE in-person Draft Party. Teams will be seeded one (1) through ten (10) at random to determine their order in the draft.</p>
 
-<h2 class="sectionHeading" bind:this={eight}>Section 8: Roster Management</h2>
-
 </div>
