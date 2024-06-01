@@ -192,12 +192,14 @@
     
     <hr />
 
-<h2 class="sectionHeading" bind:this={one}>Section 1 Roster Breakdown</h2>
+<h2 class="sectionHeading" bind:this={one}>Section 1: The Commissioner</h2>
     
-    <h3 class="subSectionHeading" bind:this={oneOne}>1.1 Positional Breakdown</h3>
+    <h3 class="subSectionHeading" bind:this={oneOne}>1.1 Agreement</h3>
     
-    <p>28 Total Players</p>
-    
+    <p>Taylor Deal, hereinafter referred to as “The Commissioner” has accepted the responsibility and privilege of serving the league members of A League of Our Own and to oversee and administer League activities.</p>
+    <p>Now, therefore, in consideration of the mutual covenants and promises contained herein, the Participants agree to abide by the rules and regulations established by the Commissioner for the orderly and fair conduct of the League.</p>
+    <p>This Agreement sets forth the terms and conditions governing the Participants’ involvement in the League under the leadership of the Commissioner.</p>
+
     <p class="underscore">Starters</p>
     <ul>
         <li>QB</li>
