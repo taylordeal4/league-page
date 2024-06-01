@@ -218,10 +218,6 @@
 
     <h3 class="subSectionHeading" bind:this={oneFour}>1.4 Disciplinary Action</h3>
 
-    <h3 class="subSectionHeading" bind:this={oneFive}>1.5 Removal</h3>
-
-    <h3 class="subSectionHeading" bind:this={oneSix}>1.5 Review of Commissioner Decisions</h3>
-
 
 <h4 bind:this={oneTwoOne}>1.2.1 Trade Collusion</h4>
     <div class="subBlock">
