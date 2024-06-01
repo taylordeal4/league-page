@@ -227,11 +227,6 @@
     <p>5)Cash Penalty determined by the Commissioner and approved by a majority league vote; or such other actions as the Commissioner may deem appropriate.</p>
     </div>
 
-    <h3 class="subSectionHeading" bind:this={oneFive}>1.5 Removal</h3>
-
-    <p>The Commissioner does not have autonomous rule over the league and may be removed from office through a unanimous vote by league members.</p>
-
-
 <h4 bind:this={oneTwoOne}>1.2.1 Trade Collusion</h4>
     <div class="subBlock">
         <p>If any owners are suspected of accepting bribes/offering bribes to enhance their/another owners team via trade, trading any assets other than fantasy players, draft picks, FAAB $, or otherwise found guilty of engaging in any form of collusion*, all parties involved in the trade will be susceptible to punishment. The punishments will go as followed:</p>
