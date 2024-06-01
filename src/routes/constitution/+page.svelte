@@ -242,17 +242,17 @@
   
     <h3 bind:this={fourTwo}>4.2 Rosters</h3>
     <p>Each team will have 17 available positions on their active roster. Roster positions are defined as follows:</p>
-    <div class="subBlock">
-<p>1)QB (2)</p>
-<p>2)RB (2)</p>
-<p>3)WR (3)</p>
-<p>4)TE (1)</p>
-<p>5)FLEX WR/RB/TE (2)</p>
-<p>6)K (1)</p>
-<p>7)DEF (1)</p>
-<p>8)BENCH (5)</p>
-<p>9)IR (2)</p>
-    </div>
+  <ul>
+        <li>QB (2)</li>
+        <li>RB (2)</li>
+        <li>WR (3)</li>
+        <li>TE (1)</li>
+        <li>FLEX - WR/RB/TE (2)</li>
+        <li>K (1)</li>
+        <li>DEF (1)</li>
+        <li>BENCH (5)</li>
+        <li>IR (2)</li>
+    </ul>
 
     <h2 class="sectionHeading" bind:this={five}>Section 5: League Finances</h2>
     
