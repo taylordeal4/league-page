@@ -266,15 +266,37 @@
         <li>Trophies: $110</li>
     </ul>
 
-<h2 class="sectionHeading" bind:this={six}>Section 6 Replacing Managers</h2>
+<h2 class="sectionHeading" bind:this={six}>Section 6: Bonus Categories</h2>
     
-    <h3 bind:this={sixOne}>6.1 Removing Managers</h3>
-    <p>Short of continuously failing to set a valid lineup, or confirmed collusion, no manager can be removed against their will. Participation, through the league chat, trade offers, and the waiver wire, is strongly encouraged but generally grounds for removal.</p>
-    
-    <h3 bind:this={sixTwo}>6.2 Replacing Managers</h3>
-    <p>When a manager needs to be replaced, the commisiooners will try to find a suitable candidate with some connection to at least a portion of the existing managers. Priority will be placed on managers who are eager to take on a dynasty commitment and will be very active within the league.</p>
-    
-    <h3 bind:this={sixThree}>6.3 Replacement Incentive</h3>
+    <h3 bind:this={sixOne}>6.1 Categories</h3>
+    <p>Bonus payouts will fall under three categories:</p>    
+   <ul>
+        <li>Weekly Challenge Bonus</li>
+        <li>Weekly High Score Bonus</li>
+        <li>Squid Game Winner</li>
+    </ul>
+    <p>Bonus categories can adjust in format and/or payout from year to year with league majority vote approval. All changes must be agreed upon before the start of the regular season. All bonus cash will be paid out at the end of each season.</p>
+
+    <h3 bind:this={sixTwo}>6.2 Weekly Challenge Bonus</h3>
+    <p>A $5 bonus prize will be awarded for the following weekly categories:</p>    
+   <ul>
+        <li>Week 1: Revenge Week - Largest margin of victory</li>
+        <li>Week 2: The Replacements - Single highest scoring non-starter</li>
+        <li>Week 3: Beast Mode - Most points by one active RB</li>
+        <li>Week 4: Lucky Duck - Lowest score in a win</li>
+        <li>Week 5: Uncle Rico - Most points by one active QB</li>
+        <li>Week 6: Horseshoes & Hand Grenades - Narrowest margin of victory</li>
+        <li>Week 7: Stevie Wonder - Starting QB with teh mist interceptions</li>
+        <li>Week 8: Gotta Catch'em All - Most points by one active WR</li>
+        <li>Week 9: Next Time Tiger - Highest score in a loss</li>
+        <li>Week 10: I'm Wirey - Most points by an active K</li>
+        <li>Week 11: One-Two Punch - Highest combined total of your RB1 and RB2 positions</li>
+        <li>Week 12: Left Side, Strong Side - Most points by active DEF</li>
+        <li>Week 13: The Secuirty Blanet - Most points by one active TE</li>
+        <li>Week 14: You're Killing Me Smalls - Winning team with the lowest scoring active player</li>
+    </ul>
+
+<h3 bind:this={sixThree}>6.3 Replacement Incentive</h3>
     <p>In the event that a manager chooses to quit the league or is removed by a comissioner, an incoming manager is offered a 50% reductioon on their first year buy-in.</p>
 
     <h2 class="sectionHeading" bind:this={seven}>Section 7 League Finances</h2>
