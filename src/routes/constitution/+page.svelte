@@ -334,12 +334,81 @@
 
     <h3 bind:this={fourThree}>4.3 Scoring</h3>
     <p>Passing</p>
+ <ul>
+        <li>Passing Yards: +0.04 per yard (25 yards = 1 pt)</li>
+        <li>Passing TD: 4</li>
+        <li>2-Pt Conversion: 2</li>
+        <li>Pass Intercepted: -2</li>
+        <li>Pick 6 Thrown: -4</li>
+        <li>Pass Completed: 0.10</li>
+        <li>QB Sacked: -1</li>
+        <li>40+ Yard Pass TD Bonus: 2</li>
+    </ul>
     <p>Rushing</p>
+ <ul>
+        <li>Rushing Yards: +0.10 per yard (10 yards = 1 pt)</li>
+        <li>Rushing TD: 6</li>
+        <li>2-Pt Conversion: 2</li>
+        <li>Rush Attempts: 0.10</li>
+        <li>QB Sacked: -1</li>
+        <li>40+ Yard Rush TD Bonus: 2</li>
+    </ul>
     <p>Receving</p>
+ <ul>
+        <li>Reception: 0.50</li>
+        <li>Recieving Yards: +0.10 per yard (10 yards = 1 pt)</li>
+        <li>Receiving TD: 6</li>
+        <li>2-Pt Conversion: 2</li>
+        <li>40+ Yard Reception TD Bonus: 2</li>
+    </ul>
     <p>Kicking</p>
+ <ul>
+        <li>PAT Made: 1</li>
+        <li>PAT Missed: -3</li>
+        <li>FG Made (0-39 yards): 3</li>
+        <li>FG Made (40-49 yards): 4</li>
+        <li>FG Made (50+ yards): 5</li>
+        <li>FG Missed (0-39 yards): -3</li>
+        <li>FG Missed (40+ yards): -1</li>
+    </ul>
     <p>Defense</p>
+ <ul>
+        <li>Defense TD: 6</li>
+        <li>Points Allowed (14-20): -1</li>
+        <li>Points Allowed (21-27): -2</li>
+        <li>Points Allowed (28-34): -3</li>
+        <li>Points Allowed (35+): -4</li>
+        <li>Points Per Point Allowed: -0.10</li>
+        <li>350-399 Total Yards Allowed: -1</li>
+        <li>400-449 Total Yards Allowed: -2</li>
+        <li>450-499 Total Yards Allowed: -3</li>
+        <li>500-549 Total Yards Allowed: -4</li>
+        <li>550+ Total Yards Allowed: -5</li>
+        <li>3 and Out: 0.25</li>
+        <li>4th Down Stop: 0.50</li>
+        <li>Sacks: 1</li>
+        <li>Interceptions: 2</li>
+        <li>Fumble Recovery: 1</li>
+        <li>Tack for Loss: 0.50</li>
+        <li>Safety: 4</li>
+        <li>Forced Fumble: 1</li>
+        <li>Blocked Kick: 3</li>
+        <li>Pass Defended: 0.25</li>
+        <li>2-Pt Conversion Returns: 4</li>
+    </ul>
     <p>Special Teams</p>
+<ul>
+        <li>Special Teams Player TD: 6</li>
+        <li>Special Teams Player Forced Fumble: 1</li>
+        <li>Special Teams Player Fumble Recovery: 1</li>
+        <li>Player Punt Return Yards: +0.04 per yard (25 yards = 1 pt)</li>
+        <li>Player Kick Return Yards: +0.04 per yard (25 yards = 1 pt)</li>
+    </ul>
     <p>Misc.</p>
+<ul>
+        <li>Fumble Lost: -2</li>
+        <li>Fumble Recovery TD: 6</li>
+    </ul>
 
     <h3 bind:this={fourFour}>4.4 Divisions</h3>
     <p>The league is organized into two divisions made up of five teams each.</p>
