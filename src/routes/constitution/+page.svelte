@@ -1,12 +1,15 @@
 <script>
     import { dues } from '$lib/utils/helper';
-    let one, oneOne, oneOneOne, oneTwo, oneTwoOne, oneTwoTwo, oneTwoThree, oneTwoFour, oneTwoFive, oneThree;
+    let one, oneOne, oneOneOne, oneTwo, oneTwoOne, oneTwoTwo, oneTwoThree, oneTwoFour, oneTwoFive, oneThree, oneFour, oneFive, oneSix;
     let two, twoOne, twoTwo, twoThree;
-    let three, threeOne;
-    let four, fourOne, fourTwo;
-    let five, fiveOne;
-    let six, sixOne, sixTwo, sixThree;
-    let seven, sevenOne, sevenTwo, sevenThree;
+    let three, threeOne, threeTwo, threeThree, threeFour, threeFive, threeSix, threeSeven, threeEight, threeNine, threeTen;
+    let four, fourOne, fourTwo, fourThree, fourFour, fourFive, fourSix, fourSeven, fourEight, fourNine, fourTen;
+    let five, fiveOne, fiveTwo, fiveThree, fiveFour, fiveFive;
+    let six, sixOne, sixTwo, sixThree, sixFour;
+    let seven, sevenOne, sevenTwo, sevenThree, sevenFour;
+    let eight, eightOne, eightTwo, eightThree, eightFour, eightFive, eightSix, eightSeven;
+    let nine, nineOne, nineTwo, nineThree, nineFour, nineFive, nineSix, nineSeven, nineEight;
+    let ten, tenOne, tenTwo, tenThree, tenFour;
 
     const goToSection = (section) => {
         const top = section.getBoundingClientRect().top + window.pageYOffset;
@@ -158,9 +161,9 @@
 
     <h3 class="noUnderscore clickable" on:click={() => goToSection(seven)}>Section 7: The Draft</h3>
         <h4 class="noUnderscore clickable" on:click={() => goToSection(sevenOne)}>7.1 Scheduling</h4>
-        <h4 class="noUnderscore clickable" on:click={() => goToSection(sixTwo)}>7.2 Format</h4>
-        <h4 class="noUnderscore clickable" on:click={() => goToSection(sixThree)}>7.3 Absenteeism</h4>
-        <h4 class="noUnderscore clickable" on:click={() => goToSection(sixFour)}>7.4 Draft Order Selection</h4>
+        <h4 class="noUnderscore clickable" on:click={() => goToSection(sevenTwo)}>7.2 Format</h4>
+        <h4 class="noUnderscore clickable" on:click={() => goToSection(sevenThree)}>7.3 Absenteeism</h4>
+        <h4 class="noUnderscore clickable" on:click={() => goToSection(sevenFour)}>7.4 Draft Order Selection</h4>
 
 
     <h3 class="noUnderscore clickable" on:click={() => goToSection(eight)}>Section 8: Roster Management</h3>
