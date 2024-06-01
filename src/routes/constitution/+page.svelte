@@ -244,16 +244,15 @@
     <p>Each team will have 17 available positions on their active roster. Roster positions are defined as follows:</p>
     <div class="subBlock">
 <p>1)QB (2)</p>
+<p>2)RB (2)</p>
+<p>3)WR (3)</p>
+<p>4)TE (1)</p>
+<p>5)FLEX WR/RB/TE (2)</p>
+<p>6)K (1)</p>
+<p>7)DEF (1)</p>
+<p>8)BENCH (5)</p>
+<p>9)IR (2)</p>
     </div>
-
-    <ol>
-        <li>Points For</li>
-        <li>Head 2 Head Record</li>
-        <li>Division Record</li>
-        <li>Total Points Against</li>
-        <li>Coin Flip</li>
-        <li>Duel to the death</li>
-    </ol>
 
     <h2 class="sectionHeading" bind:this={five}>Section 5 Tanking Policy</h2>
     
