@@ -310,5 +310,9 @@
     
     <h3 bind:this={sevenThree}>7.3 Absenteeism</h3>
         <p>Draft attendance is strongly encouraged, yet optional. Participation, however, is mandatory. If a team manager cannot attend or participate, it is their responsibility to secure a proxy or draft their team remotely on draft day. A lack of participation for two or more consecutive seasons will result in disciplinary action. IF a manager is unable to attend, they may:</p>
+     <div class="subBlock">
+        <p>1)Login remotely to the draft via FanDraft to select their picks in real time along with the in-person draft. Member can also request to be present on Facetime/Zoom/Skype for the duration of the in-person Draft Day. </p>
+        <p>2)Secure a proxy and send them to the draft. Proxys cannot draft remotely.</p>
+    </div>
         <p>If neither of these options can be met – their roster will be auto picked by a bot. </p>
 </div>
