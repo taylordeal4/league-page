@@ -232,10 +232,15 @@
         </div>
 
 
-    <h3 class="subSectionHeading" bind:this={oneTwo}>1.2 Trading</h3>
+    <h3 class="subSectionHeading" bind:this={oneTwo}>1.2 Responsibilities</h3>
     
-    <p>Trading of players and draft picks (up to 3 drafts away) are allowed. Trades will process immediately and will be reversed if vetoed or under investigation for collusion. Tradable assets include players, draft picks, and FAAB $.</p>
-    
+    <p>The functions of the Commissioner shall include:</p>
+    <ul>
+        <li>1)	To serve as the Chief Administrative, Dispute Resolution and Financial Officer of A League of Our Own. </li>
+        <li>2)	To appoint such persons to assist in the execution of the duties of the Commissioner as may be necessary in the Commissioner’s exclusive direction. </li>
+        <li>3)	To make decisions, or to appoint persons to make decisions, in respect of rule interpretations, administrative functions, financial transactions or disciplinary action, as may be necessary. </li>
+    </ul>
+
     <h4 bind:this={oneTwoOne}>1.2.1 Trade Collusion</h4>
     <div class="subBlock">
         <p>If any owners are suspected of accepting bribes/offering bribes to enhance their/another owners team via trade, trading any assets other than fantasy players, draft picks, FAAB $, or otherwise found guilty of engaging in any form of collusion*, all parties involved in the trade will be susceptible to punishment. The punishments will go as followed:</p>
