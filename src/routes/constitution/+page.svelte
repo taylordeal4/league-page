@@ -203,9 +203,11 @@
     <h3 class="subSectionHeading" bind:this={oneTwo}>1.2 Responsibilities</h3>
     
     <p>The functions of the Commissioner shall include:</p>
+    <div class="subBlock">
     <p>1)To serve as the Chief Administrative, Dispute Resolution and Financial Officer of A League of Our Own.</p>
     <p>2)To appoint such persons to assist in the execution of the duties of the Commissioner as may be necessary in the Commissioner’s exclusive direction.</p>
     <p>3)To make decisions, or to appoint persons to make decisions, in respect of rule interpretations, administrative functions, financial transactions or disciplinary action, as may be necessary.</p>
+    </div>
 
     <h4 bind:this={oneTwoOne}>1.2.1 Trade Collusion</h4>
     <div class="subBlock">
