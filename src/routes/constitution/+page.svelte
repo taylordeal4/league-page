@@ -498,9 +498,71 @@
     <h3 bind:this={eightSeven}>8.7 Roster Lock</h3>
     <p>Player lineup changes lock on a per-player basis, set for the start of each player’s individually scheduled game time. If an owner has technical or logistical problems setting their lineup, please contact the Commissioner for help.</p>
 
+<h2 class="sectionHeading" bind:this={nine}>Section 9: The Playoffs</h2>
 
+    <h3 bind:this={nineOne}>9.1 Playoff Bracket</h3>
+    <p>The playoffs shall begin on Week 15 of the NFL regular season. There are three (3) rounds of playoffs. Each playoff round shall be one (1) week.</p>
 
+    <h3 bind:this={nineTwo}>9.2 Qualifying</h3>
+    <p>The six (6) teams with the highest win percentage upon the last date before the commencement of the playoffs shall qualify for the playoffs.</p>
+    <div class="subBlock">
+    <p>1) In the event that any teams should be tied in respect of win percentage, the tiebreaker shall be the Total Points For (PF) during the regular season.</p>
+    <p>2) Matchups that end in a tie are recorded as a tie with the exception of playoff and Championship matches. Tiebreakers for playoffs are determined by, ‘Best regular season record vs. opponent wins.’ The win will be awarded to the team with the best overall matchup winning percentage against opponent during the regular season.</p>
+    </div>
 
+    <h3 bind:this={nineThree}>9.3 Division Winners</h3>
+    <p>The team in each of the two divisions with the best winning percentage is the division winner and receives an automatic playoff berth and a first week playoff Bye. If two or more teams tie for the lead in a division, total points scored in the season will be the tiebreaker.</p>
 
+    <h3 bind:this={nineFour}>9.4 League Championship</h3>
+    <p>: In Week 17 the final two remaining teams compete in a one-week matchup for fantasy immortality. The winner is declared as A League of Our Own Fantasy League Champion!</p>
+
+    <h3 bind:this={nineFive}>9.5 Toilet Bowl Bracket</h3>
+    <p>The four (4) teams that do not make the playoffs will compete in the Toilet Bowl. The Toilet Bowl shall begin on Week 15 of the NFL regular season. There are two (2) rounds. Each round shall be one (1) week.</p>
+    <div class="subBlock">
+    <p>1) The teams play to avoid battling for last place. The Losing team from each round gets flushed to the next round.</p>
+    <p>2) The losing team of the Week 16 Toilet Bowl matchup will become the Toilet Bowl Chump.</p>
+    </div>
+
+    <h3 bind:this={nineSix}>9.6 League Champion Trophy</h3>
+    <p>The winner of A League of Our Own will be presented with the league trophy at the draft before the start of the season. The winner of the previous season is responsible for safely transporting and/or delivering the trophy to the draft. The team manager who finishes in 10th place will be responsible for paying for the champion’s plaque that will be applied to the trophy, as referenced in Article V, Section 4.</p>
+
+    <h3 bind:this={nineSeven}>9.7 Championship Ring</h3>
+    <p>The winner will also receive a Championship ring, and display case, to wear or display with pride. The ring will be presented to the League Champion during the Super Bowl Party, or weekend of.</p>
+
+    <h3 bind:this={nineEight}>9.8 Toilet Bowl Trophy</h3>
+    <p>The team manager who loses The Toilet Bowl will be disgracefully awarded a consolation trophy.</p>
+
+<h2 class="sectionHeading" bind:this={ten}>Section 10: Offenses</h2>
+
+    <h3 bind:this={tenOne}>10.1 Nature of Offenses</h3>
+    <p>This Article deals with activities that are deemed to go beyond the score of irregularities or minor contraventions of the Constitution and constitute wrongful conduct worthy of more severe sanction.</p>
+
+    <h3 bind:this={tenTwo}>10.2 Commencement of Offense Proceedings</h3>
+    <p>The Commissioner, on his/her own initiative or following the receipt of a complaint, whether anonymous or public, may, after satisfying himself/herself that the complaint has merit, announce that a Team or its Manager has committed an offense, and the penalty for that offense.</p>
+    <div class="subBlock">
+    <p>1) The Commissioner is authorized to investigate alleged offenses if he/she deems it necessary to do so, and Managers are required to assist in such investigations by providing truthful statements to the Commissioner if requested to do so.</p>
+    </div>
+
+    <h3 bind:this={tenThree}>10.3 Types of Offenses</h3>
+    <p>The following shall be classified as an offense:</p>
+    <div class="subBlock">
+    <p>1) Bribery: Provides another party with value other than in-game value in exchange for in-game value.</p>
+    <p>2) Collusion: Agrees with another party to limit open competition in the game by deceiving, misleading or defrauding others in order for a party, who may or may not be a party to the collusion, to obtain an unfair market advantage. Collusion shall be assumed in any case where on Manager acts for more than one team at the same time.</p>
+    <p>3) Tanking: Tanking occurs when a team intentionally loses a game or drops players to alter the competitive balance of the league. Teams are prohibited from losing a game to alter playoff matchups and from dumping valued players into the player pool after giving up on a disappointing season.</p>
+    <p>4) Churning: Churning occurs when a team adds and drops players on waivers for the sole purpose of making them unavailable to other teams, which is prohibited.</p>
+    <p>5) Disrespect: Makes insulting, aggressive, discomforting, or derogatory comments to another party that a reasonable person would consider in excess of friendly “trash talk”.</p>
+    <p>6) Harassment: Repeatedly contacts another party or contacts another party through a specific means of communication, despite that party’s request that they not do so.</p>
+    <p>7) Non-Competitive Behavior: Demonstrates an intention not to compete that goes beyond mere negligence. Under extreme circumstances, a recurring refusal to engage in reasonable transactions may be considered non-competitive behavior.</p>
+    <p>8) Nuisance: Repeatedly complains about the operation of A League of Our Own to the extent that it amounts to harassment of the Commissioner or markedly decreases the enjoyment of others.</p>
+    <p>9) General Anti-Avoidance Provision (GAAP): Engages in conduct not other prohibited by this Constitution but is generally acknowledged to be shitty.</p>
+    </div>
+
+    <h3 bind:this={tenFour}>10.4 Penalties</h3>
+    <p>Any manager found guilty by league majority of an offense is susceptible to the most extreme penalties provided for in Article 1, Section 3, including permanent suspension without refund.</p>
+    <div class="subBlock">
+    <p>1) Decisions concerning an offense and its penalty are reviewable pursuant to Article 1, Section 5.</p>
+    </div>
+
+<p>This Constitution was last updated on: Thursday, May 23rd, 2024</p>
 
 </div>
