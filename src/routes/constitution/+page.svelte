@@ -263,7 +263,37 @@
     <h3 bind:this={threeOne}>3.1 League Spots</h3>
     <p>A League of Our Own has a total of 10 manager spots for each season.</p>
 
-    <h2 class="sectionHeading" bind:this={four}>Section 4: League Settings</h2>
+    <h3 bind:this={threeTwo}>3.2 Managers</h3>
+    <p>The managers of each team for the 2024-25 season are established as follows:</p>
+<ul>
+        <li>Taylor (Commissioner)</li>
+        <li>Robby</li>
+        <li>Emily)</li>
+        <li>Jake</li>
+        <li>Nick</li>
+        <li>Jerry</li>
+        <li>Matt</li>
+        <li>Randy</li>
+        <li>Denisa</li>
+        <li>Mustafah</li>
+    </ul>
+
+    <h3 bind:this={threeThree}>3.3 Eligibility</h3>
+    <p>All interested members from the previous season have the right to retain their team as long as they have not been suspended or removed by the Commissioner.</p>
+
+    <h3 bind:this={threeFour}>3.4 Suspension/Removal</h3>
+    <p>Suspensions and or removals will be instituted by the Commissioner based on a majority league vote. The league vote excludes the manager in question.</p>
+
+    <h3 bind:this={threeFive}>3.5 Offseason Voting</h3>
+    <p>Each offseason each manager may be required to cast votes in respect of such matters as would include, but not be limited to:</p>
+    <div class="subBlock">
+    <p>1)	The election of a Commissioner.</p>
+    <p>2)	The amount of the annual league dues.</p>
+    <p>3)	Revisions to bonus categories as defined in Article VI, Section 1.</p>
+    <p>4)	The amendment of this Constitution in respect of matters that shall include but not be limited to:</p>
+    </div>  
+
+<h2 class="sectionHeading" bind:this={four}>Section 4: League Settings</h2>
     
     <h3 bind:this={fourOne}>4.1 Format</h3>
     <p>A League of Our Own shall be a 10-team head-to-head league with a Half Point Per Reception (PPR) format hosted by Sleeper.</p>    
