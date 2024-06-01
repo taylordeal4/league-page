@@ -100,7 +100,7 @@
     
     <h2 class="noUnderscore">TABLE OF CONTENTS</h2>
     
-    <h3 class="noUnderscore clickable" on:click={() => goToSection(one)}>Article 1: The Commissioner</h3>
+    <h3 class="noUnderscore clickable" on:click={() => goToSection(one)}>Section 1: The Commissioner</h3>
         <h4 class="noUnderscore clickable" on:click={() => goToSection(oneOne)}>1.1 Agreement</h4>
         <h4 class="noUnderscore clickable" on:click={() => goToSection(oneTwo)}>1.2 Responsibilities</h4>
         <h4 class="noUnderscore clickable" on:click={() => goToSection(oneThree)}>1.3 Assitant to the Commissioner</h4>
@@ -109,14 +109,13 @@
         <h4 class="noUnderscore clickable" on:click={() => goToSection(oneSix)}>1.6 Review of Commissioner Decisions</h4>
 
     
-    <h3 class="noUnderscore clickable" on:click={() => goToSection(two)}>Article 2: League Communications</h3>
-    
+    <h3 class="noUnderscore clickable" on:click={() => goToSection(two)}>Section 2: League Communications</h3>
         <h4 class="noUnderscore clickable" on:click={() => goToSection(twoOne)}>2.1 Sleeper App</h4>
         <h4 class="noUnderscore clickable" on:click={() => goToSection(twoTwo)}>2.2 League Chat</h4>
         <h4 class="noUnderscore clickable" on:click={() => goToSection(twoThree)}>2.3 Private Channel</h4>
-    
-    <h3 class="noUnderscore clickable" on:click={() => goToSection(three)}>Article 3: League Members</h3>
-    
+
+
+    <h3 class="noUnderscore clickable" on:click={() => goToSection(three)}>Section 3: League Members</h3>
         <h4 class="noUnderscore clickable" on:click={() => goToSection(threeOne)}>3.1 League Spots</h4>
         <h4 class="noUnderscore clickable" on:click={() => goToSection(threeTwo)}>3.2 Managers</h4>
         <h4 class="noUnderscore clickable" on:click={() => goToSection(threeThree)}>3.3 Eligibility</h4>
@@ -129,8 +128,7 @@
         <h4 class="noUnderscore clickable" on:click={() => goToSection(threeTen)}>3.10 Withdrawl of Managers</h4>
 
     
-    <h3 class="noUnderscore clickable" on:click={() => goToSection(four)}>Acticle 4: League Settings</h3>
-    
+    <h3 class="noUnderscore clickable" on:click={() => goToSection(four)}>Section 4: League Settings</h3>
         <h4 class="noUnderscore clickable" on:click={() => goToSection(fourOne)}>4.1 Format</h4>
         <h4 class="noUnderscore clickable" on:click={() => goToSection(fourTwo)}>4.2 Rosters</h4>
         <h4 class="noUnderscore clickable" on:click={() => goToSection(fourThree)}>4.3 Scoring</h4>
@@ -143,8 +141,7 @@
         <h4 class="noUnderscore clickable" on:click={() => goToSection(fourTen)}>4.10 Trade Deadline</h4>
 
 
-    <h3 class="noUnderscore clickable" on:click={() => goToSection(five)}>Article 5: League Finances</h3>
-    
+    <h3 class="noUnderscore clickable" on:click={() => goToSection(five)}>Section 5: League Finances</h3>
         <h4 class="noUnderscore clickable" on:click={() => goToSection(fiveOne)}>5.1 Entry Fee</h4>
         <h4 class="noUnderscore clickable" on:click={() => goToSection(fiveTwo)}>5.2 Payments</h4>
         <h4 class="noUnderscore clickable" on:click={() => goToSection(fiveThree)}>5.3 Non-Payment</h4>
@@ -152,23 +149,21 @@
         <h4 class="noUnderscore clickable" on:click={() => goToSection(fiveFive)}>5.5 Additional Fees</h4>
 
 
-    <h3 class="noUnderscore clickable" on:click={() => goToSection(six)}>Article 6: Bonus Categories</h3>
-    
+    <h3 class="noUnderscore clickable" on:click={() => goToSection(six)}>Section 6: Bonus Categories</h3>
         <h4 class="noUnderscore clickable" on:click={() => goToSection(sixOne)}>6.1 Categories</h4>
         <h4 class="noUnderscore clickable" on:click={() => goToSection(sixTwo)}>6.2 Weekly Challenge Bonus</h4>
         <h4 class="noUnderscore clickable" on:click={() => goToSection(sixThree)}>6.3 Weekly High Score Bonus</h4>
         <h4 class="noUnderscore clickable" on:click={() => goToSection(sixFour)}>6.4 Squid Game</h4>
 
 
-    <h3 class="noUnderscore clickable" on:click={() => goToSection(seven)}>Article 7: The Draft</h3>
-    
+    <h3 class="noUnderscore clickable" on:click={() => goToSection(seven)}>Section 7: The Draft</h3>
         <h4 class="noUnderscore clickable" on:click={() => goToSection(sevenOne)}>7.1 Scheduling</h4>
         <h4 class="noUnderscore clickable" on:click={() => goToSection(sixTwo)}>7.2 Format</h4>
         <h4 class="noUnderscore clickable" on:click={() => goToSection(sixThree)}>7.3 Absenteeism</h4>
         <h4 class="noUnderscore clickable" on:click={() => goToSection(sixFour)}>7.4 Draft Order Selection</h4>
 
-    <h3 class="noUnderscore clickable" on:click={() => goToSection(eight)}>Article 8: Roster Management</h3>
-    
+
+    <h3 class="noUnderscore clickable" on:click={() => goToSection(eight)}>Section 8: Roster Management</h3>
         <h4 class="noUnderscore clickable" on:click={() => goToSection(eightOne)}>8.1 Active Roster</h4>
         <h4 class="noUnderscore clickable" on:click={() => goToSection(eightTwo)}>8.2 Roster Positions</h4>
         <h4 class="noUnderscore clickable" on:click={() => goToSection(eightThree)}>8.3 Position Designation</h4>
@@ -177,8 +172,8 @@
         <h4 class="noUnderscore clickable" on:click={() => goToSection(eightSix)}>8.6 Roster Limits</h4>
         <h4 class="noUnderscore clickable" on:click={() => goToSection(eightSeven)}>8.7 Roster Lock</h4>
 
-    <h3 class="noUnderscore clickable" on:click={() => goToSection(nine)}>Article 9: The Playoffs</h3>
-    
+
+    <h3 class="noUnderscore clickable" on:click={() => goToSection(nine)}>Section 9: The Playoffs</h3>
         <h4 class="noUnderscore clickable" on:click={() => goToSection(nineOne)}>9.1 Playoff Bracket</h4>
         <h4 class="noUnderscore clickable" on:click={() => goToSection(nineTwo)}>9.2 Qualifying</h4>
         <h4 class="noUnderscore clickable" on:click={() => goToSection(nineThree)}>9.3 Division Winners</h4>
@@ -188,8 +183,8 @@
         <h4 class="noUnderscore clickable" on:click={() => goToSection(nineSeven)}>9.7 Championship Ring</h4>
         <h4 class="noUnderscore clickable" on:click={() => goToSection(nineEight)}>9.8 Toilet Bowl Trophy</h4>
 
-   <h3 class="noUnderscore clickable" on:click={() => goToSection(ten)}>Article 10: Offenses</h3>
-    
+
+   <h3 class="noUnderscore clickable" on:click={() => goToSection(ten)}>Section 10: Offenses</h3>
         <h4 class="noUnderscore clickable" on:click={() => goToSection(tenOne)}>10.1 Nature of Offense</h4>
         <h4 class="noUnderscore clickable" on:click={() => goToSection(tenTwo)}>10.2 Commencement of Offense Proceedings</h4>
         <h4 class="noUnderscore clickable" on:click={() => goToSection(tenThree)}>10.3 Offenses</h4>
