@@ -295,25 +295,24 @@
         <li>Week 13: The Secuirty Blanet - Most points by one active TE</li>
         <li>Week 14: You're Killing Me Smalls - Winning team with the lowest scoring active player</li>
     </ul>
+        <p>If a tie occurs, the winner of the Weekly Challenge will be determined by Most Team Points scored during that week.</p>
 
-<h3 bind:this={sixThree}>6.3 Replacement Incentive</h3>
-    <p>In the event that a manager chooses to quit the league or is removed by a comissioner, an incoming manager is offered a 50% reductioon on their first year buy-in.</p>
-
-    <h2 class="sectionHeading" bind:this={seven}>Section 7 League Finances</h2>
+    <h3 bind:this={sixThree}>6.3 Weekly High Score Bonus</h3>
+        <p>A $5 bonus prize will be awarded each week to the team with the highest fantasy score during Weeks 1-14.</p>
     
-    <h3 bind:this={sevenOne}>7.1 League Dues</h3>
-    <p>League dues are set at {dues}$. Dues are collected through <a href="https://www.leaguesafe.com/league/3949641">LeagueSafe</a> and collection will be sent out no later than the first of August. All managers must be fully paid up before the start of regular season. In the event that a manager fails to pay before the deadline, a 10% penalty will be addd to their payment and will go towards the payouts at the end of the year.</p>
+<h2 class="sectionHeading" bind:this={seven}>Section 7: The Draft</h2>
     
-    <h3 bind:this={sevenTwo}>7.2 Payout</h3>
-    <p>League payout is structured as follows:</p>
-    <ul>
-        <li>1st place: {dues * 8}$</li>
-        <li>2nd place: {dues * 3}$</li>
-        <li>3rd place: {dues}$</li>
-    </ul>
-    <p>In the event that a manager was fined due to late payment, their extra fee will be added to the winner's payout. Similarly, if new managers come into the league and the payout is smaller, the difference will come out of the winner's prize.</p>
+    <h3 bind:this={sevenOne}>7.1 Scheduling</h3>
+        <p>The draft is scheduled with input from league members, and the date and time are ultimately determined by the Commissioner. The draft is typically held during Labor Day weekend.</p>    
+ 
+<h3 bind:this={sevenTwo}>7.2 Format</h3>
+        <p>The draft will be an offline, in-person snake format through seventeen rounds. Owner’s will have three (3) minutes to select their pick. When time expires, expect heckling from other league members. Only in extreme cases will we skip the owner who is not making their selection.</p> 
     
-    <h3 bind:this={sevenThree}>7.3 Raising Dues</h3>
-    <p>A ⅔ majority vote is required in order to raise league dues. In the event that a manager is no longer financially comfortable with the buyin, finding a co-manager to split the cost is reccomended.</p>
-
+    <h3 bind:this={sevenThree}>7.3 Absenteeism</h3>
+        <p>Draft attendance is strongly encouraged, yet optional. Participation, however, is mandatory. If a team manager cannot attend or participate, it is their responsibility to secure a proxy or draft their team remotely on draft day. A lack of participation for two or more consecutive seasons will result in disciplinary action. IF a manager is unable to attend, they may:</p>
+<div class="subBlock">
+<p>1)Login remotely to the draft via FanDraft to select their picks in real time along with the in-person draft. Member can also request to be present on Facetime/Zoom/Skype for the duration of the in-person Draft Day.</p>    </div>
+<p>2)Secure a proxy and send them to the draft. Proxys cannot draft remotely.</p>
+</div>
+<p>If neither of these options can be met – their roster will be auto picked by a bot. </p>
 </div>
