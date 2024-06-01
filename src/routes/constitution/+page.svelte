@@ -254,12 +254,19 @@
 <p>9)IR (2)</p>
     </div>
 
-    <h2 class="sectionHeading" bind:this={five}>Section 5 Tanking Policy</h2>
+    <h2 class="sectionHeading" bind:this={five}>Section 5: League Finances</h2>
     
-    <h3 bind:this={fiveOne}>5.1 League Tanking Policy</h3>
-    <p>No team may intentionally leave starting roster spots empty. Any evidence of intentionally leaving roster spots empty in order to improve your draft position may be subject to punishment, including but not limited to the forfeiture of draft selections.</p>
+    <h3 bind:this={fiveOne}>5.1 Entry Fee</h3>
+    <p>Dues for participation in A League of Our Own are hereby established. The annual league entry fee is $75 US Dollars for the 2024-25 season. Increases to the league dues will be voted on at the beginning of each season. Any increases will be applied to the playoff pool and survivor/bonus pools. The allocation of collective dues for 2024 is as follows:</p>
+    <ul>
+        <li>Playoff Pool: $450</li>
+        <li>Squid Game: $50</li>
+        <li>Weekly Challenge Bonus: $70</li>
+        <li>Weekly High Score Bonus: $70</li>
+        <li>Trophies: $110</li>
+    </ul>
 
-    <h2 class="sectionHeading" bind:this={six}>Section 6 Replacing Managers</h2>
+<h2 class="sectionHeading" bind:this={six}>Section 6 Replacing Managers</h2>
     
     <h3 bind:this={sixOne}>6.1 Removing Managers</h3>
     <p>Short of continuously failing to set a valid lineup, or confirmed collusion, no manager can be removed against their will. Participation, through the league chat, trade offers, and the waiver wire, is strongly encouraged but generally grounds for removal.</p>
