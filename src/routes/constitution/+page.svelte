@@ -235,7 +235,7 @@
     <h3 bind:this={threeOne}>3.1 League Spots</h3>
     <p>A League of Our Own has a total of 10 manager spots for each season.</p>
 
-    <h3 bind:this={threeTwo}>3.2 Managers</h3>
+    <h3 class="subSectionHeading" bind:this={threeTwo}>3.2 Managers</h3>
 
     <h2 class="sectionHeading" bind:this={four}>Section 4 Postseason</h2>
     
