@@ -216,21 +216,21 @@
     <p>1)Assistant Selection: Members in the league may volunteer to fill the role of the Assistant to the Commissioner. On Draft Day, if more than one person volunteers – the remaining members will vote to determine who will fill the role for the season.</p>
     </div>  
 
-    <h3 class="subSectionHeading" bind:this={oneFour}>1.4 Disciplinary Actions</h3>
+    <h2 class="sectionHeading" bind:this={two}>Section 2: League Communications</h2>
+    
+    <h3 bind:this={twoOne}>2.1 Sleeper App</h3>
+    <p>A League of Our Own is hosted on the Sleeper app. The league rules as listed below should align with the league settings on Sleeper. In any case where the league rules as listed here do not align with the rules as set up in Sleeper, the settings in Sleeper will take precedence if the league is mid-season. If the inconsistency is brought to the Commissioner’s attention in the offseason, these rules will be brought into alignment with the Sleeper settings.</p>
 
-    <h2 class="sectionHeading" bind:this={two}>Section 2 Drafting</h2>
-    
-    <h3 bind:this={twoOne}>2.1 Draft Order</h3>
-    <p>The draft order each year will be a linear draft in reverse order of the previous year’s regular season standings.</p>
+    <h3 bind:this={twoTwo}>2.2 League Chat</h3>
+    <p>All league communications will be posted to the Sleeper app League Chat via the Commissioner. Members are to respond to league communications, when needed, at their earliest convenience to ensure the needs of the league are met – please confirm your notifications are set so you don’t miss any communication deadlines!</p>
+    <div class="subBlock">
+    <p>1)Off-Season Chat: During the off-season, if members do not respond to league communications posted in the Sleeper app, the Commissioner will send a text to remind them about current polls, questions, or reminders to ensure all information is adequately recorded.</p>
+    </div>  
 
-    <h3 bind:this={twoTwo}>2.2 Rookie Drafts</h3>
-    <p>Rokkie drafts will consist of 3 round of drafting, with 5 minutes alotted for each pick. To make room for the incoming players, benches will be expanded by (5) spots. These spots will be removed in mid-August, at which point you will need to have cut the necessary players.</p>
-    <p>Any spots not filled during the draft, can be filled immediately afterwards from the waiver wire.</p>
-    
-    <h3 bind:this={twoThree}>2.3 Draft Day Trades</h3>
-    <p>If a trade is being made during the draft, one or both parties can alert the commissioner to pause the draft to allow for extra time to negotiate the trade.</p>
-    
-    <h2 class="sectionHeading" bind:this={three}>Section 3 Scoring System</h2>
+    <h3 bind:this={twoThree}>2.3 Private Channel</h3>
+    <p>The league will have a private Channel on the Sleeper App to house the following: League Rules, League Voting, Weekly Challenge Payouts, and Weekly Updates. Members will be invited to join the private Channel via the Commissioner.</p>    
+   
+<h2 class="sectionHeading" bind:this={three}>Section 3 Scoring System</h2>
 
     <h3 bind:this={threeOne}>3.1 Scoring System</h3>
     <p>The league scoring system breakdown is listed on the Sleeper fantasy app (for the most part, it follows typical .5PPR Scoring). The scoring system will never change without a majority league vote.</p>
