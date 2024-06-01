@@ -216,17 +216,6 @@
     <p>1)Assistant Selection: Members in the league may volunteer to fill the role of the Assistant to the Commissioner. On Draft Day, if more than one person volunteers – the remaining members will vote to determine who will fill the role for the season.</p>
     </div>
 
-    <h3 class="subSectionHeading" bind:this={oneFour}>1.4 Disciplinary Actions</h3>
-
-    <p>In the case of conduct deemed by the Commissioner not to be in the best interests of A League of Our Own disciplinary actions against team managers may include any one or more of the following:</p>
-    <div class="subBlock">
-    <p>1)A reprimand.</p>
-    <p>2)A formal warning.</p>
-    <p>3)A forfeit of a specific draft pick.</p>
-    <p>4)Suspension or removal of a Manager from A League of Our Own.</p>
-    <p>5)Cash Penalty determined by the Commissioner and approved by a majority league vote; or such other actions as the Commissioner may deem appropriate.</p>
-    </div>
-
 <h4 bind:this={oneTwoOne}>1.2.1 Trade Collusion</h4>
     <div class="subBlock">
         <p>If any owners are suspected of accepting bribes/offering bribes to enhance their/another owners team via trade, trading any assets other than fantasy players, draft picks, FAAB $, or otherwise found guilty of engaging in any form of collusion*, all parties involved in the trade will be susceptible to punishment. The punishments will go as followed:</p>
