@@ -216,6 +216,8 @@
     <p>1) Assistant Selection: Members in the league may volunteer to fill the role of the Assistant to the Commissioner. On Draft Day, if more than one person volunteers – the remaining members will vote to determine who will fill the role for the season.</p>
     </div>  
 
+    <h3 class="subSectionHeading" bind:this={oneFour}>1.4 Disciplinary Actions</h3>
+
 <h2 class="sectionHeading" bind:this={two}>Section 2: League Communications</h2>
     
     <h3 bind:this={twoOne}>2.1 Sleeper App</h3>
