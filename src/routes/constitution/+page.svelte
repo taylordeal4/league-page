@@ -385,6 +385,26 @@
         <li>Trophies: $110</li>
     </ul>
 
+    <h3 bind:this={fiveTwo}>5.2 Payments</h3>
+    <p>The $75 entry fee shall be collected via Venmo by August 16th.</p>
+
+    <h3 bind:this={fiveThree}>5.3 Non-Payment</h3>
+    <p>Failure to submit league dues will result in suspension or removal from the league.</p>
+
+    <h3 bind:this={fiveFour}>5.4 End of Season Payouts</h3>
+    <p>Payouts are to be made by the Commissioner no more than one week after the conclusion of the 2024-25 Super Bowl.  Payouts shall be made as follows:</p>
+<ul>
+        <li>1st Place: $300</li>
+        <li>2nd Place: $150</li>
+        <li>Squid Game Winner: $50</li>
+        <li>Weekly Challenge Bonus: $0-$70 ($5/each)</li>
+        <li>Weekly High Score Bonus: $0-$70 ($5/each)</li>
+    </ul>
+
+    <h3 bind:this={fiveFive}>5.5 Additional Fee(s)</h3>
+    <p>Loser of The Toilet Bowl must pay a $25 fee for the League Champion plaque. This fee is due to the Commissioner at the conclusion of Week 16’s Toilet Bowl matchup.</p>
+
+
 <h2 class="sectionHeading" bind:this={six}>Section 6: Bonus Categories</h2>
     
     <h3 bind:this={sixOne}>6.1 Categories</h3>
