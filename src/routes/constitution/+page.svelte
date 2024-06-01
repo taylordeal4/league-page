@@ -268,7 +268,7 @@
 <ul>
         <li>Taylor (Commissioner)</li>
         <li>Robby</li>
-        <li>Emily)</li>
+        <li>Emily</li>
         <li>Jake</li>
         <li>Nick</li>
         <li>Jerry</li>
@@ -287,11 +287,31 @@
     <h3 bind:this={threeFive}>3.5 Offseason Voting</h3>
     <p>Each offseason each manager may be required to cast votes in respect of such matters as would include, but not be limited to:</p>
     <div class="subBlock">
-    <p>1)	The election of a Commissioner.</p>
-    <p>2)	The amount of the annual league dues.</p>
-    <p>3)	Revisions to bonus categories as defined in Article VI, Section 1.</p>
-    <p>4)	The amendment of this Constitution in respect of matters that shall include but not be limited to:</p>
+    <p>1) The election of a Commissioner.</p>
+    <p>2) The amount of the annual league dues.</p>
+    <p>3) Revisions to bonus categories as defined in Article VI, Section 1.</p>
+    <p>4) The amendment of this Constitution in respect of matters that shall include but not be limited to:</p>
     </div>  
+    <p>All of which shall require a simple majority vote by means of a poll on the Sleeper app or in person so long as all team managers are represented; with the exception of subsection (d.), which shall require a two-thirds majority vote. All votes will remain open for three (3) days after the creation of the poll. Upon expiration of the voting window all votes will be counted, and a ruling will be made by the Commissioner pursuant to the authority granted him/her in Article I, Section 2, Subsection c.</p>
+
+    <h3 bind:this={threeSix}>3.6 Regular Season Voting</h3>
+    <p>During the regular season, managers may be required to cast votes in respect of such matters as would include, but are not limited to:</p>
+    <div class="subBlock">
+    <p>1) Referenda or opinion polls as required by the Commissioner for his own guidance; and</p>
+    <p>2) Reviews of the Commissioner’s decisions within the regular season.</p>
+    </div>  
+
+    <h3 bind:this={threeSeven}>3.7 Minimum Voting Requirements</h3>
+    <p>There is no minimum quorum or representation requirement for a regular season, offseason, or Constitutional Amendment vote.</p>
+
+    <h3 bind:this={threeEight}>3.8 Pre-season Amendments</h3>
+    <p>Any manager may suggest rule modifications to the Commissioner before/at the league’s Draft Day. A simple majority vote of all managers may amend this constitution.</p>
+
+    <h3 bind:this={threeNine}>3.9 Amendments In-Season</h3>
+    <p>This Constitution may not be amended during the Regular Season except by unanimous vote of the team managers by means of a poll on the Sleeper app or in person. All votes will remain open for three (3) days after the creation of the poll. Upon expiration of the voting window all votes will be counted, and a ruling will be made by the Commissioner pursuant to the authority granted him/her in Article I, Section 2, Subsection c.</p>
+
+    <h3 bind:this={threeTen}>3.10 Withdrawl of Managers</h3>
+    <p>Managers may withdraw from A League of Our Own at any time between the commencement of the offseason and August 15th within that offseason without penalty. Replacement managers will be found and appointed by the Commissioner.</p>
 
 <h2 class="sectionHeading" bind:this={four}>Section 4: League Settings</h2>
     
