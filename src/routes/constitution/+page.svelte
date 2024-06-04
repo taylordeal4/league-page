@@ -199,7 +199,7 @@
     
     <h3 class="subSectionHeading" bind:this={oneOne}>1.1 Agreement</h3>
     
-    <p>Taylor Deal, hereinafter referred to as “The Commissioner” has accepted the responsibility and privilege of serving the league members of A League of Our Own and to oversee and administer League activities.</p>
+    <p>Taylor, hereinafter referred to as “The Commissioner” has accepted the responsibility and privilege of serving the league members of A League of Our Own and to oversee and administer League activities.</p>
     <p>Now, therefore, in consideration of the mutual covenants and promises contained herein, the Participants agree to abide by the rules and regulations established by the Commissioner for the orderly and fair conduct of the League.</p>
     <p>This Agreement sets forth the terms and conditions governing the Participants’ involvement in the League under the leadership of the Commissioner.</p>
 
@@ -235,7 +235,7 @@
     <h3 class="subSectionHeading" bind:this={oneSix}>1.6 Review of Commissioner Decisions</h3>
     <p>Any action of the Commissioner taken pursuant to this Article, regardless of whether or not it is specifically designated as “reviewable”, may be overturned under the following process:</p>
     <div class="subBlock">
-    <p>1) Team managers interested in the outcome of the Commissioner’s decision (i.e., the team that would receive the direct benefit of an overturned vote and any other team(s) directly involved in the challenged transaction and/or act) are deemed interested parties and are not eligible to participate in a vote to overturn that decision. For further clarity, each team’s interest in the general competitiveness of each other team shall not constitute an “interest” in the outcome of a decision for the purposes of subsection (a).</p>
+    <p>1) Team managers interested in the outcome of the Commissioner’s decision (i.e., the team that would receive the direct benefit of an overturned vote and any other team(s) directly involved in the challenged transaction and/or act) are deemed interested parties and are not eligible to participate in a vote to overturn that decision. For further clarity, each team’s interest in the general competitiveness of each other team shall not constitute an “interest” in the outcome of a decision.</p>
     <p>2) One-third of team managers eligible to cast a vote to overturn must agree to a petition for reconsideration or a vote upon the challenged decision. That petition must be made within one week of the formal posting of the challenged decision on the league chat of the Sleeper app, by tagging the Commissioner. For further clarity, without such a petition being made, there shall be no review of a Commissioner’s decision.</p>
     <p>3) If the Commissioner does not reconsider the decision, a vote shall be held.</p>
     <p>4) The Commissioner and all interested parties may make such representations to the team managers as they may wish in support of their preferred outcome.</p>
@@ -289,10 +289,10 @@
     <div class="subBlock">
     <p>1) The election of a Commissioner.</p>
     <p>2) The amount of the annual league dues.</p>
-    <p>3) Revisions to bonus categories as defined in Article VI, Section 1.</p>
+    <p>3) Revisions to bonus categories as defined in Section 4.1.</p>
     <p>4) The amendment of this Constitution in respect of matters that shall include but not be limited to:</p>
     </div>  
-    <p>All of which shall require a simple majority vote by means of a poll on the Sleeper app or in person so long as all team managers are represented; with the exception of subsection (d.), which shall require a two-thirds majority vote. All votes will remain open for three (3) days after the creation of the poll. Upon expiration of the voting window all votes will be counted, and a ruling will be made by the Commissioner pursuant to the authority granted him/her in Article I, Section 2, Subsection c.</p>
+    <p>All of which shall require a simple majority vote by means of a poll on the Sleeper app or in person so long as all team managers are represented; with the exception of subsection (d.), which shall require a two-thirds majority vote. All votes will remain open for three (3) days after the creation of the poll. Upon expiration of the voting window all votes will be counted, and a ruling will be made by the Commissioner pursuant to the authority granted him/her in Section 1.2.</p>
 
     <h3 bind:this={threeSix}>3.6 Regular Season Voting</h3>
     <p>During the regular season, managers may be required to cast votes in respect of such matters as would include, but are not limited to:</p>
@@ -308,7 +308,7 @@
     <p>Any manager may suggest rule modifications to the Commissioner before/at the league’s Draft Day. A simple majority vote of all managers may amend this constitution.</p>
 
     <h3 bind:this={threeNine}>3.9 Amendments In-Season</h3>
-    <p>This Constitution may not be amended during the Regular Season except by unanimous vote of the team managers by means of a poll on the Sleeper app or in person. All votes will remain open for three (3) days after the creation of the poll. Upon expiration of the voting window all votes will be counted, and a ruling will be made by the Commissioner pursuant to the authority granted him/her in Article I, Section 2, Subsection c.</p>
+    <p>This Constitution may not be amended during the Regular Season except by unanimous vote of the team managers by means of a poll on the Sleeper app or in person. All votes will remain open for three (3) days after the creation of the poll. Upon expiration of the voting window all votes will be counted, and a ruling will be made by the Commissioner pursuant to the authority granted him/her in Section 1.2.</p>
 
     <h3 bind:this={threeTen}>3.10 Withdrawl of Managers</h3>
     <p>Managers may withdraw from A League of Our Own at any time between the commencement of the offseason and August 15th within that offseason without penalty. Replacement managers will be found and appointed by the Commissioner.</p>
@@ -420,7 +420,7 @@
     <p>The league's regular season begins Week 1 and ends Week 14 of the NFL season. The Commissioner allows Sleeper to set the schedule automatically, except for Week 1 – this will be Revenge Week. Sleeper sets the regular season schedule on the following principle: each team plays every divisional team twice, and each non-divisional team once. There is no tiebreaker for regular season matchups.</p>
 
     <h3 bind:this={fourSix}>4.6 Wins & Tiebreakers</h3>
-    <p>Weekly head-to-head matchups are won by the team with the higher point total for that given week. Matchups that end in a tie are recorded as a tie except for playoff and Championship games as described in Article IX, Section 2, Subsection b.</p>
+    <p>Weekly head-to-head matchups are won by the team with the higher point total for that given week. Matchups that end in a tie are recorded as a tie except for playoff and Championship games as described in Section 9.2.</p>
 
     <h3 bind:this={fourSeven}>4.7 Free Agent Acquisition</h3>
     <p>Free Agent players are acquired via weekly Free Agent Waiver Wire. Waiver wire order is determined by a continual rolling list. Waivers process and clear at 2 a.m. on Wednesdays.</p>
@@ -536,8 +536,8 @@
     <p>A team's active roster consists of fifteen (15) player slots. The starting roster consists of twelve (12) slots – ten (10) offensive players, one (1) kicker, and one (1) defensive team. Managers must always field a complete team.</p>
     <div class="subBlock">
     <p>1) Managers may not permit players on Injured Reserve to be in their active lineup for more than one (1) week from the time of his designation to the Injured Reserve.</p>
-    <p>2) Failure to abide by the responsibilities laid out in Section 8 will subject the team manger to disciplinary action at the Commissioner’s discretion pursuant to Article 1, Section 2 and will be reviewable pursuant to Article 1, Section 5.</p>
-    <p>3) If a team manager is inactive for a period of two weeks, consecutive or non-consecutive, that neglect will constitute an offense under Article 9, Section 4. After two occurrences, the Commissioner reserves the right to make changes to fill the roster and reassign ownership of the team for purposes of competitive balance.</p>
+    <p>2) Failure to abide by the responsibilities laid out in Section 8 will subject the team manger to disciplinary action at the Commissioner’s discretion pursuant to Section 1.2 and will be reviewable pursuant to Section 1.5.</p>
+    <p>3) If a team manager is inactive for a period of two weeks, consecutive or non-consecutive, that neglect will constitute an offense under Section 9.4. After two occurrences, the Commissioner reserves the right to make changes to fill the roster and reassign ownership of the team for purposes of competitive balance.</p>
     </div>
 
     <h3 bind:this={eightTwo}>8.2 Roster Positions</h3>
@@ -593,7 +593,7 @@
     </div>
 
     <h3 bind:this={nineSix}>9.6 League Champion Trophy</h3>
-    <p>The winner of A League of Our Own will be presented with the league trophy at the draft before the start of the season. The winner of the previous season is responsible for safely transporting and/or delivering the trophy to the draft. The team manager who finishes in 10th place will be responsible for paying for the champion’s plaque that will be applied to the trophy, as referenced in Article V, Section 4.</p>
+    <p>The winner of A League of Our Own will be presented with the league trophy at the draft before the start of the season. The winner of the previous season is responsible for safely transporting and/or delivering the trophy to the draft. The team manager who finishes in 10th place will be responsible for paying for the champion’s plaque that will be applied to the trophy, as referenced in Section 5.4.</p>
 
     <h3 bind:this={nineSeven}>9.7 Championship Ring</h3>
     <p>The winner will also receive a Championship ring, and display case, to wear or display with pride. The ring will be presented to the League Champion during the Super Bowl Party, or weekend of.</p>
@@ -627,11 +627,13 @@
     </div>
 
     <h3 bind:this={tenFour}>10.4 Penalties</h3>
-    <p>Any manager found guilty by league majority of an offense is susceptible to the most extreme penalties provided for in Article 1, Section 3, including permanent suspension without refund.</p>
+    <p>Any manager found guilty by league majority of an offense is susceptible to the most extreme penalties provided for in Section 1,3, including permanent suspension without refund.</p>
     <div class="subBlock">
-    <p>1) Decisions concerning an offense and its penalty are reviewable pursuant to Article 1, Section 5.</p>
+    <p>1) Decisions concerning an offense and its penalty are reviewable pursuant to Section 1.5.</p>
     </div>
 
-<p>This Constitution was last updated on: Thursday, May 23rd, 2024</p>
+  <ul>
+    <li>This Constitution was last updated on: Thursday, May 23rd, 2024</li>
+    </ul>
 
 </div>
