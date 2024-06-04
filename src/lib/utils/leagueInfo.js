@@ -27,28 +27,6 @@ https://github.com/nmelhado/league-page/blob/master/TRAINING_WHEELS.md#ii-adding
 // To omit an optional field, set it's value to null
 
 export const managers = [
-     {
-    "managerID": "466808847713955840",
-    "name": "Andrew Shapiro",
-    "location": "Brooklyn",
-    "bio": "I joined the league last year.  I went to high school and college with nick and we were roommates for 3 years.  I have 2 kids both boys one is almost 3 and the other is 6 months.  I love to trade.\nMy favorite teams are: 1) my fantasy team 2) I was a jets fan but dumped them for the dolphins last year",
-    "photo": "/managers/andrew.jpg",
-    "fantasyStart": 2010,
-    "favoriteTeam": "mia",
-    "mode": "Win Now",
-    "rival": {
-      name: "Clayton",
-      link: 6,
-      image: "/managers/clayton.jpg"
-    },
-    "favoritePlayer": 2449,
-    "valuePosition": "WR",
-    "rookieOrVets": "Rookies",
-    "philosophy": "Next man up.",
-    "tradingScale": 10,
-    "contactMethods": "Text, WhatsApp, email, Blind Sleeper offer",
-    "preferredContact": "Text",
-  },
   {
       "managerID": "995768463782215680",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
       "name": "Taylor",
@@ -68,7 +46,6 @@ export const managers = [
       "rookieOrVets": "Rookies", // (optional) 'Rookies' or 'Vets' (anything else and you will need to add a new png to /static/ similar to the 'Rookies.png' and 'Vets.png' currently in there)
       "philosophy": "Draft like a wizard, manage like a hustler, and always remember: fantasy football is 90% luck and 10% blaming injuries.",
       "tradingScale": 10, // 1 - 10
-      "contactMethods": "Text, WhatsApp, email, Blind Sleeper offer",
       "preferredContact": "Sleeper", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
       {
