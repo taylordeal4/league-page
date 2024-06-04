@@ -46,6 +46,7 @@ export const managers = [
       "rookieOrVets": "Rookies", // (optional) 'Rookies' or 'Vets' (anything else and you will need to add a new png to /static/ similar to the 'Rookies.png' and 'Vets.png' currently in there)
       "philosophy": "Draft like a wizard, manage like a hustler, and always remember: fantasy football is 90% luck and 10% blaming injuries.",
       "tradingScale": 10, // 1 - 10
+      "contactMethods": "Text, WhatsApp, email, Blind Sleeper offer",
       "preferredContact": "Sleeper", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
       {
