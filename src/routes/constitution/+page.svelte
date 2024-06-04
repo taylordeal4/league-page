@@ -627,7 +627,7 @@
     </div>
 
     <h3 bind:this={tenFour}>10.4 Penalties</h3>
-    <p>Any manager found guilty by league majority of an offense is susceptible to the most extreme penalties provided for in Section 1,3, including permanent suspension without refund.</p>
+    <p>Any manager found guilty by league majority of an offense is susceptible to the most extreme penalties provided for in Section 1.3, including permanent suspension without refund.</p>
     <div class="subBlock">
     <p>1) Decisions concerning an offense and its penalty are reviewable pursuant to Section 1.5.</p>
     </div>
