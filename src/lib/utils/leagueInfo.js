@@ -7,6 +7,8 @@ export const enableBlog = true; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VIT
 
 /*   STEP 2   */
 export const homepageText = `
+<script src="https://cdn.logwork.com/widget/countdown.js"></script>
+<a href="https://logwork.com/countdown-timer" class="countdown-timer" data-timezone="America/Chicago" data-date="2024-08-25 13:00">Countdown to the 2024 Draft</a>
   <p>Welcome to "A League of Our Own" Fantasy Football League! Where Fantasy Football Meets Modern Marvels.</p>
   <p>Greetings gridirion gurus, welcome to the coolest fantasy football league in cyberspace - "A League of Our Own"! Get ready to kick off a season of digital domination with a modern twist. </p>
   <p>Why Choose "A League of Our Own"?</p>
