@@ -182,33 +182,33 @@
         }
     }
 
-    $: computePodiums(rosterID);
+    //$: computePodiums(rosterID);
 
-    const computeAward = (award) => {
-        switch (award) {
-            case 1:
-                return '1st Place'
-            case 2:
-                return '2nd Place'
-            case 3:
-                return '3rd Place'
-            case 4:
-            case 5:
-            case 6:
-            case 7:
-            case 8:
-            case 9:
-            case 10:
-                return award + 'th Place';
-            case 'Champion':
-                return award
-            case 'Second':
-            case 'Third':
-                return award + ' Place'
-            case 'Toilet':
-                return award + ' Bowl'
-            default:
-                return award;
+   // const computeAward = (award) => {
+       // switch (award) {
+           // case 1:
+               // return '1st Place'
+            //case 2:
+                //return '2nd Place'
+           // case 3:
+                //return '3rd Place'
+           // case 4:
+            //case 5:
+           // case 6:
+           // case 7:
+           // case 8:
+           // case 9:
+           // case 10:
+               // return award + 'th Place';
+            //case 'Champion':
+                //return award
+           // case 'Second':
+           // case 'Third':
+               // return award + ' Place'
+           // case 'Toilet':
+               // return award + ' Bowl'
+           // default:
+               // return award;
         }
     }
 </script>
